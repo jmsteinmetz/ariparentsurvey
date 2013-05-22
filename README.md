@@ -5,11 +5,11 @@
 Application to collect information from parents about their children with Autism.
 
 ##Developer
-John Steinmetz 
-http://www.johnsteinmetz.net
-john@slingspace.com
+	John Steinmetz 
+	http://www.johnsteinmetz.net
+	john@slingspace.com
 
 ##Technology
-* PHP
-* HTML5
-* JQuery
+	* PHP
+	* HTML5
+	* JQuery
