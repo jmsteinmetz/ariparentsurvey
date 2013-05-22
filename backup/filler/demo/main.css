@@ -1,0 +1,119 @@
+BODY {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    background: #F5F5F5;
+}
+
+A {
+	text-decoration: underline;
+	color: #239ADA;
+}
+A:HOVER {text-decoration: none;}
+
+IMG {border: none;}
+LABEL {cursor: pointer;}
+H2, H3, H4, H5, H6, P, UL, FORM, OL {
+	padding: 0;
+	margin: 0;
+}
+
+.relax {
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+}
+
+/*  Page  */
+
+#page {
+    margin: auto;
+    text-align: left;
+    width: 1000px;
+}
+
+H2 {
+	margin: 10px 20px;
+	padding: 0 0 10px;
+	font-size: 20px;
+	display: block;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #CCC;
+}
+
+.form {
+	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 150%;
+	margin: 0 20px;
+}
+
+.form TD {
+	vertical-align: top;
+	padding-bottom: 5px;
+	color: #333;
+}
+
+.form TD INPUT,
+.form TD TEXTAREA,
+.form TD SELECT {
+	padding: 3px;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.form TD BUTTON {
+	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	background: #E8E8E8 url("./button.jpg") repeat-x left bottom;
+	padding: 5px 15px;
+	cursor: pointer;
+
+	border: 1px solid #CCC;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	color: #333;
+	margin-right: 15px;
+}
+
+.form TD BUTTON:HOVER { background-image: none; }
+
+.form TD INPUT,
+.form TD TEXTAREA {
+	width: 250px;
+		
+}
+
+.form TD TEXTAREA { width: 350px; }
+
+.form TD TABLE TD INPUT { width: auto; }
+
+.form TD LABEL {
+	line-height: 100%;
+	display: block;
+	margin-top: 5px;	
+}
+
+.form TD TABLE TD LABEL {
+	line-height: 180%;
+	margin-top: 0;
+}
+.script-page {
+	border-top: 1px dotted #CCCCCC;
+	clear: both;
+	padding: 10px 0;
+	clear: both;
+	margin-top: 20px;
+	font-size: 12px;
+}
+H1 {
+	font-weight: normal;
+	color: #0A8ECC;
+}

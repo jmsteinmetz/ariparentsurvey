@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Autism Research Institute : 2013 Parent Survey</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Admin Panel Template">
+<!-- styles -->
+<?php include("inc/stylesheets.html"); ?>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie9.css" />
+<![endif]-->
+<!--fav and touch icons -->
+<link rel="shortcut icon" href="ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+<style>
+#main-content {
+	margin: 0 auto;
+	width: 960px;
+}
+.white-box .form-actions {padding:17px 20px 18px 0px}
+</style>
+</head>
+<body>
+<div id="main-content">
+  <div class="container-fluid">
+    <div class="page-header">
+      <h1>The Autism Research Institute <small>2013 Parent Survey</small></h1>
+    </div>
+    <div class="row-fluid">
+      <div class="span7">
+        <div class="widget-block">
+          <div class="widget-head">
+            <h5>SURVEY BACKGROUND &amp; CONSENT</h5>
+          </div>
+          <div class="widget-content">
+            <div class="widget-box">
+            <form class="well">
+              <div class="controls">
+                <p><strong>TITLE OF STUDY:</strong>  Symptom and Treatment Survey to Subtype Individuals on the Autism Spectrum</p>
+                <p><strong>PRINCIPAL INVESTIGATOR:</strong> Stephen M. Edelson, Ph.D. (AutismResearchSurvey@autism.com)<br />
+                </p>
+                <p><strong>PURPOSE</strong></p>
+                <p>The purpose of this survey is (1) to repeat previous research on subtyping autism and (2) to determine, based on parent responses, possible underlying causes and the efficacy (effectiveness) of various interventions in relation to each subtype.</p>
+                <p><strong>PARTICIPANTS</strong></p>
+                <p>The participants are parents or guardians who have one or more sons or daughters who are three years of age or older and have been formally diagnosed with autism spectrum disorder (ASD), Asperger Syndrome, or Pervasive Developmental Disorder.  If your son/daughter does not have such a formal diagnosis of one or more of these conditions, please do not complete this online survey.</p>
+                <p>It is expected that 4000 to 5000 parents worldwide will participate in this survey.</p>
+                <p><strong>PROCEDURES</strong></p>
+                <p>This research project involves answering questions on an online survey regarding your son’s/ daughter’s physical, developmental, and behavioral symptoms. The survey is a revised version of the Diagnostic Checklist, E-2, which was developed by Dr. Bernard Rimland, the Autism Research Institute’s founder and former director.  The survey also includes possible environmental exposures during preconception, pregnancy, and infancy. In addition, you will be asked which treatments, if any, that were given to your son/daughter and how he/she responded to each one of them. There are about 120 questions in the questionnaire and an additional page of treatment items to check on the Treatment Effectiveness Survey. We estimate it will take one to two hours to answer all of the questions. You do not have to complete them all in one session.</p>
+                <p>You will also be asked if the Autism Research Institute can contact you in the future in which we may ask for additional information about your child/children. This may include requesting copies of  your child’s laboratory tests, obtaining photos/videos, and possibly participation in research studies.</p>
+                <p><strong>RISKS</strong></p>
+                <p>There may be risks by participating in this research study, but they are currently unforeseeable. There is always the possibility that personal information entered electronically can be seen by others that are not a part of this study. Every step has been taken to try and prevent this. <br />
+                </p>
+                <p><strong>BENEFITS</strong></p>
+                <p>The results from the survey may indicate whether or not your son/daughter belongs to a distinct subgroup of autism. In addition, treatment effectiveness, as rated by parents in this survey, will also be made available to participants. </p>
+                <p><strong>CONFIDENTIALITY</strong></p>
+                <p>Your son’s/daughter’s identity will be protected to the extent allowed by law. He/she will not be personally identified in any reports or publications that may result from this study. Only the Institutional Review Board (or IRB, which is a committee that has reviewed this research study to help ensure that your rights and welfare as a research participant are protected and that the research study is carried out in an ethical manner), regulatory agencies, such as the Office of Human Research Protection (OHRP)  and the research team will have access to the data. The data and consent forms will be stored securely and separately on a secured web server. In addition, the database will be password protected. </p>
+                <p><strong>COSTS/COMPENSATION</strong></p>
+                <p>There will be no cost to you nor will you be compensated for having your son/daughter participate in this study. </p>
+                <p>RIGHT TO REFUSE OR WITHDRAW</p>
+                <p>You may choose not to participate or you may cancel, thus deleting your responses, at anytime while completing the survey or anytime after the completing the survey. </p>
+                <p><strong>QUESTIONS</strong></p>
+                <p>The Autism Research Institute is eager to ensure than anyone in a research study is treated fairly and with respect.  If you have any concerns or questions about the survey, contact AutismResearchSurvey@autism.com</p>
+                <p>If you have questions about your rights as a research participant, you may contact Liberty IRB, Inc. at 386-740-9278.<br />
+                </p>
+                
+              </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="span5">
+        <div class="widget-block">
+          <div class="widget-head">
+            <h5> Login and Continue</h5>
+          </div>
+          <div class="widget-content">
+            <div class="widget-box">
+              <form class="well form-inline" method="post" action="login.php">
+                <input type="text" name="xEmail" class="input-small" placeholder="Email">
+                <input type="password" name="xPassword" class="input-small" placeholder="Password">
+                <button type="submit" class="btn">Sign in</button>                
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="widget-block">
+          <div class="widget-head">
+            <h5>Registration</h5>
+          </div>
+          <div class="widget-content">
+            <div class="widget-box">
+              <form class="well white-box" action="register.asp" method="post">
+                <fieldset>
+                  <div class="control-group">
+                    <label class="control-label" for="input801">Email Address*</label>
+                    <div class="controls">
+                    <?php 
+					if ($_GET['email'] == "duplicate") {
+						echo "<span style='color:#ff0000'>That email is already in use.</span>";
+					}
+					?>
+                      <input type="text" name="xEmail" class="input-xlarge text-tip" id="input801" title="Enter your email address.">
+                      <!--<p class="help-block"> In addition to freeform text, any HTML5 text-based input appears like so. </p>-->
+                    </div>
+                  </div>
+                  <div class="control-group">
+                    <label class="control-label" for="input803">Password (up to 10 alpha/numeric)</label>
+                    <div class="controls">
+                      <input type="password" class="input-xlarge text-tip" name="xPassword" id="input803" title="" maxlength="10">
+                      <!--<p class="help-block"> In addition to freeform text, any HTML5 text-based input appears like so. </p>-->
+                    </div>
+                  </div>
+                  <div class="control-group">
+                    <label class="control-label" for="input802">Name</label>
+                    <div class="controls">
+                      <input type="text" name="xName" class="input-xlarge text-tip" id="input802" title="Enter your full name (optional).">
+                      <!--<p class="help-block"> In addition to freeform text, any HTML5 text-based input appears like so. </p>-->
+                    </div>
+                  </div>
+                  <div class="control-group">
+                    <label class="control-label">Checking the box below indicates that  (1) You are 21 years of age or older; (2) You have decided to complete the online questionnaire about your son/daughter, and (3) You have read and understand this consent form.</label>
+                    <div class="controls">
+                      <label class="checkbox">
+                        <input type="checkbox" id="mustcheck" name="xAccept" value="true">
+                        I agree to participate in this research study.</label>
+                    </div>
+                  </div>
+                  
+                  <div class="form-actions">
+                    <button type="submit" id="begin" class="btn btn-primary" disabled>Save & Begin</button>
+                    <!--<button class="btn">Cancel</button>-->
+                  </div>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- javascript update
+================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script language="javascript">
+
+</script>
+<?php include("inc/scripts.html"); ?>
+<!-- html5.js for IE less than 9 --> 
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<!-- css3-mediaqueries.js for IE less than 9 --> 
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+<script src="js/ios-orientationchange-fix.js"></script>
+</body>
+</html>

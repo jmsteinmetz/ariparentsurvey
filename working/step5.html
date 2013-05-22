@@ -1,0 +1,875 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Autism Research Institute : 2012-2013 Parent Survey</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Admin Panel Template">
+<!-- styles -->
+<?php include("inc/stylesheets.html"); ?>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="css/ie/ie9.css" />
+<![endif]-->
+<!--fav and touch icons -->
+<link rel="shortcut icon" href="ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+<style>
+#main-content {
+	margin: 0 auto;
+	width: 960px;
+}
+.white-box .form-actions {
+	padding: 17px 20px 18px 0px
+}
+</style>
+</head>
+<body>
+<div id="main-content">
+  <div class="container-fluid">
+    <div class="page-header">
+      <h1>The Autism Research Institute <small>2012-2013 Parent Survey</small></h1>
+    </div>
+    <div class="row-fluid">
+      <div class="span8">
+        <div class="widget-block">
+          <div class="widget-head">
+            <h5>Questions Related to Your Son’s/Daughter’s Physical Health </h5>
+          </div>
+          <div class="widget-content">
+            <div class="widget-box" style="display:table">
+              <div class="TTWForm-container">
+                <form action="step5process.asp?KeyID=<%=KeyID%>" method="post">
+                  <div id="field10-container" class="field f_100 radio-group required">
+                    <label for="field10-1"> Any history of hospitalization due to infection? </label>
+                    <div class="option clearfix">
+                      <input name="field10" id="field10-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field10" id="field10-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field10" id="field10-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field11-container" class="field f_100 radio-group required">
+                    <label for="field11-1"> Any history of infection requiring intravenous antibiotics? </label>
+                    <div class="option clearfix">
+                      <input name="field11" id="field11-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field11" id="field11-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field11" id="field11-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field12-container" class="field f_100 checkbox-group required">
+                    <label for="field12-1"> Any history of conditions associated with airborne allergens? Please check
+                      all that apply </label>
+                    <div class="option clearfix">
+                      <input name="field12a" id="field12-1" value="Asthma" type="checkbox">
+                      <span class="option-title"> Asthma </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field12b" id="field12-2" value="Conjunctivitis" type="checkbox">
+                      <span class="option-title"> Conjunctivitis </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field12c" id="field12-3" value="IgG ELISA" type="checkbox">
+                      <span class="option-title"> IgG ELISA </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field12d" id="field12-4" value="Rhinitis" type="checkbox">
+                      <span class="option-title"> Rhinitis </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field12e" id="field12-5" value="Skin condition" type="checkbox">
+                      <span class="option-title"> Skin condition </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field12f" id="field12-6" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field13-container" class="field f_100">
+                    <label for="field13"> If other, please explain. </label>
+                    <input name="field13" id="field13" type="text">
+                  </div>
+                  <div id="field14-container" class="field f_100 checkbox-group">
+                    <label for="field14-1"> If ‘yes’ to any of the above, how were the airborne allergens evaluated? </label>
+                    <div class="option clearfix">
+                      <input name="field14a" id="field14-1" value="Blood testing" type="checkbox">
+                      <span class="option-title"> Blood testing </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field14b" id="field14-2" value="Clinical symptoms only"
+                    type="checkbox">
+                      <span class="option-title"> Clinical symptoms only </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field14c" id="field14-3" value="Skin testing" type="checkbox">
+                      <span class="option-title"> Skin testing </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field14d" id="field14-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field15-container" class="field f_100">
+                    <label for="field15"> What types of allergens does the child react to? Please list: </label>
+                    <textarea rows="5" cols="20" name="field15" id="field15"></textarea>
+                  </div>
+                  <div id="field16-container" class="field f_100 radio-group required">
+                    <label for="field16-1"> Any tests done for assessing food allergies? </label>
+                    <div class="option clearfix">
+                      <input name="field16" id="field16-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field16" id="field16-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field16" id="field16-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field17-container" class="field f_100">
+                    <label for="field17"> If yes, please explain. </label>
+                    <input name="field17" id="field17" type="text">
+                  </div>
+                  <div id="field18-container" class="field f_100 radio-group required">
+                    <label for="field18-1"> Any reactions to foods (same symptoms each time when the child eats a
+                      specific food)? </label>
+                    <div class="option clearfix">
+                      <input name="field18" id="field18-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field18" id="field18-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field18" id="field18-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field19-container" class="field f_100">
+                    <label for="field19"> If yes, name Food #1 </label>
+                    <input name="field19" id="field19" type="text">
+                  </div>
+                  <div id="field20-container" class="field f_100">
+                    <label for="field20"> If yes, symptom of Food #1 </label>
+                    <input name="field20" id="field20" type="text">
+                  </div>
+                  <div id="field28-container" class="field f_100">
+                    <label for="field28"> For Food #1, when do symptoms occur? </label>
+                    <select name="field28" id="field28">
+                      <option id="field28-1" value="0-15 min"> 0-15 min </option>
+                      <option id="field28-2" value="16-30 min"> 16-30 min </option>
+                      <option id="field28-3" value="31-60 min"> 31-60 min </option>
+                      <option id="field28-4" value="1-2 hours"> 1-2 hours </option>
+                      <option id="field28-5" value="2+ hours"> 2+ hours </option>
+                    </select>
+                  </div>
+                  <div id="field19b-container" class="field f_100">
+                    <label for="field19b"> If yes, name Food #2 </label>
+                    <input name="field19b" id="field19b" type="text">
+                  </div>
+                  <div id="field20b-container" class="field f_100">
+                    <label for="field20b"> If yes, symptom of Food #2 </label>
+                    <input name="field20b" id="field20b" type="text">
+                  </div>
+                  <div id="field28b-container" class="field f_100">
+                    <label for="field28b"> For Food #2, when do symptoms occur? </label>
+                    <select name="field28b" id="field28b">
+                      <option id="field28b-1" value="0-15 min"> 0-15 min </option>
+                      <option id="field28b-2" value="16-30 min"> 16-30 min </option>
+                      <option id="field28b-3" value="31-60 min"> 31-60 min </option>
+                      <option id="field28b-4" value="1-2 hours"> 1-2 hours </option>
+                      <option id="field28b-5" value="2+ hours"> 2+ hours </option>
+                    </select>
+                  </div>
+                  <div id="field19c-container" class="field f_100">
+                    <label for="field19c"> If yes, name Food #3 </label>
+                    <input name="field19c" id="field19c" type="text">
+                  </div>
+                  <div id="field20c-container" class="field f_100">
+                    <label for="field20c"> If yes, symptom of Food #3 </label>
+                    <input name="field20c" id="field20c" type="text">
+                  </div>
+                  <div id="field28c-container" class="field f_100">
+                    <label for="field28c"> For Food #3, when do symptoms occur? </label>
+                    <select name="field28c" id="field28c">
+                      <option id="field28c-1" value="0-15 min"> 0-15 min </option>
+                      <option id="field28c-2" value="16-30 min"> 16-30 min </option>
+                      <option id="field28c-3" value="31-60 min"> 31-60 min </option>
+                      <option id="field28c-4" value="1-2 hours"> 1-2 hours </option>
+                      <option id="field28c-5" value="2+ hours"> 2+ hours </option>
+                    </select>
+                  </div>
+                  <div id="field29-container" class="field f_100 checkbox-group required">
+                    <label for="field29-1"> History ear infection or other types of respiratory infection? </label>
+                    <div class="option clearfix">
+                      <input name="field29a" id="field29-1" value="Pneumonia" type="checkbox">
+                      <span class="option-title"> Pneumonia </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field29b" id="field29-2" value="Sinusitis" type="checkbox">
+                      <span class="option-title"> Sinusitis </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field29c" id="field29-3" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field29d" id="field29-4" value="No" type="checkbox">
+                      <span class="option-title"> No </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field29e" id="field29-5" value="Don't know" type="checkbox">
+                      <span class="option-title"> Don't know </span> <br>
+                    </div>
+                  </div>
+                  <div id="field30-container" class="field f_100">
+                    <label for="field30"> If other, please explain. </label>
+                    <input name="field30" id="field30" type="text">
+                  </div>
+                  <div id="field31-container" class="field f_100 radio-group required">
+                    <label for="field31-1"> Any history of ear infections in the past requiring antibiotics? </label>
+                    <div class="option clearfix">
+                      <input name="field31" id="field31-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field31" id="field31-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field31" id="field31-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field32-container" class="field f_100">
+                    <label for="field32"> If ‘yes,’ approximately how many times </label>
+                    <input name="field32" id="field32" type="text">
+                  </div>
+                  <div id="field33-container" class="field f_100 radio-group required">
+                    <label for="field33-1"> Any history of PE tube placement for recurrent ear infection? </label>
+                    <div class="option clearfix">
+                      <input name="field33" id="field33-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field33" id="field33-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field33" id="field33-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field34-container" class="field f_100 radio-group required">
+                    <label for="field34-1"> Did the child have a period of jaundice for more than two days? </label>
+                    <div class="option clearfix">
+                      <input name="field34" id="field34-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field34" id="field34-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field34" id="field34-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field35-container" class="field f_100 radio-group required">
+                    <label for="field35-1"> Did your child experience a negative reaction within two weeks after receiving
+                      a vaccine? </label>
+                    <div class="option clearfix">
+                      <input name="field35" id="field35-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field35" id="field35-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field35" id="field35-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field36-container" class="field f_100">
+                    <label for="field36"> If yes, please indicate the vaccine (Vaccine #1) </label>
+                    <input name="field36" id="field36" type="text">
+                  </div>
+                  <div id="field37-container" class="field f_100">
+                    <label for="field37"> At what age? (Vaccine #1) </label>
+                    <input name="field37" id="field37" required type="text">
+                  </div>
+                  <div id="field38-container" class="field f_100">
+                    <label for="field38"> How soon was the reaction? (Vaccine #1) </label>
+                    <input name="field38" id="field38" type="text">
+                  </div>
+                  <div id="field39-container" class="field f_100">
+                    <label for="field39"> Description of the reaction (Vaccine #1) </label>
+                    <textarea rows="5" cols="20" name="field39" id="field39"></textarea>
+                  </div>
+                  <div id="field36b-container" class="field f_100">
+                    <label for="field36b"> If yes, please indicate the vaccine (Vaccine #2) </label>
+                    <input name="field36b" id="field36b" type="text">
+                  </div>
+                  <div id="field37b-container" class="field f_100">
+                    <label for="field37b"> At what age? (Vaccine #2) </label>
+                    <input name="field37b" id="field37b" required type="text">
+                  </div>
+                  <div id="field38b-container" class="field f_100">
+                    <label for="field38b"> How soon was the reaction? (Vaccine #2) </label>
+                    <input name="field38b" id="field38b" type="text">
+                  </div>
+                  <div id="field39b-container" class="field f_100">
+                    <label for="field39b"> Description of the reaction (Vaccine #2) </label>
+                    <textarea rows="5" cols="20" name="field39b" id="field39b"></textarea>
+                  </div>
+                  <div id="field36c-container" class="field f_100">
+                    <label for="field36c"> If yes, please indicate the vaccine (Vaccine #3) </label>
+                    <input name="field36c" id="field36c" type="text">
+                  </div>
+                  <div id="field37c-container" class="field f_100">
+                    <label for="field37c"> At what age? (Vaccine #3) </label>
+                    <input name="field37c" id="field37c" required type="text">
+                  </div>
+                  <div id="field38c-container" class="field f_100">
+                    <label for="field38c"> How soon was the reaction? (Vaccine #3) </label>
+                    <input name="field38c" id="field38c" type="text">
+                  </div>
+                  <div id="field39c-container" class="field f_100">
+                    <label for="field39c"> Description of the reaction (Vaccine #3) </label>
+                    <textarea rows="5" cols="20" name="field39c" id="field39c"></textarea>
+                  </div>
+                  <div id="field36d-container" class="field f_100">
+                    <label for="field36d"> If yes, please indicate the vaccine (Vaccine #4) </label>
+                    <input name="field36d" id="field36d" type="text">
+                  </div>
+                  <div id="field37d-container" class="field f_100">
+                    <label for="field37d"> At what age? (Vaccine #4) </label>
+                    <input name="field37d" id="field37d" required type="text">
+                  </div>
+                  <div id="field38d-container" class="field f_100">
+                    <label for="field38d"> How soon was the reaction? (Vaccine #4) </label>
+                    <input name="field38d" id="field38d" type="text">
+                  </div>
+                  <div id="field39d-container" class="field f_100">
+                    <label for="field39d"> Description of the reaction (Vaccine #4) </label>
+                    <textarea rows="5" cols="20" name="field39d" id="field39d"></textarea>
+                  </div>
+                  <div id="field40-container" class="field f_100 checkbox-group required">
+                    <label for="field40-1"> Please indicate gastrointestinal symptoms commonly experienced by your
+                      child. Check all that apply: </label>
+                    <div class="option clearfix">
+                      <input name="field40a" id="field40-1" value="Abdominal pain " type="checkbox">
+                      <span class="option-title"> Abdominal pain </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40b" id="field40-2" value="Constipation" type="checkbox">
+                      <span class="option-title"> Constipation </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40c" id="field40-3" value="Diarrhea" type="checkbox">
+                      <span class="option-title"> Diarrhea </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40d" id="field40-4" value="Flatulence (excessive gas)"
+                    type="checkbox">
+                      <span class="option-title"> Flatulence (excessive gas) </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40e" id="field40-5" value="Irritable bowel syndrome"
+                    type="checkbox">
+                      <span class="option-title"> Irritable bowel syndrome </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40f" id="field40-6" value="Loose stools" type="checkbox">
+                      <span class="option-title"> Loose stools </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40g" id="field40-7" value="Reflux" type="checkbox">
+                      <span class="option-title"> Reflux </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40h" id="field40-8" value="Smelly stools" type="checkbox">
+                      <span class="option-title"> Smelly stools </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40i" id="field40-9" value="Vomiting, reflux and/or spitting up"
+                    type="checkbox">
+                      <span class="option-title"> Vomiting, reflux and/or spitting up </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40j" id="field40-10" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40k" id="field40-11" value="No" type="checkbox">
+                      <span class="option-title"> No </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field40l" id="field40-12" value="Don't know" type="checkbox">
+                      <span class="option-title"> Don't know </span> <br>
+                    </div>
+                  </div>
+                  <div id="field41-container" class="field f_100">
+                    <label for="field41"> If other, please explain. </label>
+                    <input name="field41" id="field41" type="text">
+                  </div>
+                  <div id="field42-container" class="field f_100 checkbox-group required">
+                    <label for="field42-1"> Have there been instances when the child’s autistic traits seemed to have
+                      temporarily diminished or vanished? </label>
+                    <div class="option clearfix">
+                      <input name="field42a" id="field42-1" value="During a stressful situation"
+                    type="checkbox">
+                      <span class="option-title"> During a stressful situation </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field42b" id="field42-2" value="Sometimes during a fever"
+                    type="checkbox">
+                      <span class="option-title"> Sometimes during a fever </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field42c" id="field42-3" value="When emerging out of anesthesia"
+                    type="checkbox">
+                      <span class="option-title"> When emerging out of anesthesia </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field42d" id="field42-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field43-container" class="field f_100">
+                    <label for="field43"> If other, please explain. </label>
+                    <input name="field43" id="field43" type="text">
+                  </div>
+                  <div id="field45-container" class="field f_100 radio-group required">
+                    <label for="field45-1"> Does the child have hypotonia (low muscle tone)? </label>
+                    <div class="option clearfix">
+                      <input name="field45" id="field45-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field45" id="field45-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field45" id="field45-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field46-container" class="field f_100 radio-group required">
+                    <label for="field46-1"> Does/did the child have eczema? </label>
+                    <div class="option clearfix">
+                      <input name="field46" id="field46-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field46" id="field46-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field46" id="field46-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field47-container" class="field f_100 radio-group required">
+                    <label for="field47-1"> What is the average amount of time that your child sleeps in a 24-hour
+                      period? </label>
+                    <div class="option clearfix">
+                      <input name="field47" id="field47-1" value="About 8 hours a day" type="radio">
+                      <span class="option-title"> About 8 hours a day </span> </div>
+                    <div class="option clearfix">
+                      <input name="field47" id="field47-2" value="Less than 8 hours per day"
+                    type="radio">
+                      <span class="option-title"> Less than 8 hours per day </span> </div>
+                    <div class="option clearfix">
+                      <input name="field47" id="field47-3" value="More than 8 hours per day"
+                    type="radio">
+                      <span class="option-title"> More than 8 hours per day </span> </div>
+                    <div class="option clearfix">
+                      <input name="field47" id="field47-4" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> <br>
+                    </div>
+                  </div>
+                  <div id="field48-container" class="field f_100">
+                    <label for="field48"> If less than or more than 8 hours, how many? </label>
+                    <input name="field48" id="field48" type="text">
+                  </div>
+                  <div id="field49-container" class="field f_100 checkbox-group">
+                    <label for="field49-1"> If the child has sleep problems, select all that apply: </label>
+                    <div class="option clearfix">
+                      <input name="field49a" id="field49-1" value="Difficulty falling asleep"
+                    type="checkbox">
+                      <span class="option-title"> Difficulty falling asleep </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49b" id="field49-2" value="Early morning wakening"
+                    type="checkbox">
+                      <span class="option-title"> Early morning wakening </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49c" id="field49-3" value="Night terrors" type="checkbox">
+                      <span class="option-title"> Night terrors </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49d" id="field49-4" value="Poor sleep quality" type="checkbox">
+                      <span class="option-title"> Poor sleep quality </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49e" id="field49-5" value="Sleeps off and on during the day"
+                    type="checkbox">
+                      <span class="option-title"> Sleeps off and on during the day </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49f" id="field49-6" value="Often wakes up in the middle of the night"
+                    type="checkbox">
+                      <span class="option-title"> Often wakes up in the middle of the night </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49g" id="field49-7" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49h" id="field49-8" value="No" type="checkbox">
+                      <span class="option-title"> No </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field49i" id="field49-9" value="Don't know" type="checkbox">
+                      <span class="option-title"> Don't know </span> <br>
+                    </div>
+                  </div>
+                  <div id="field50-container" class="field f_100">
+                    <label for="field50"> If other, please explain. </label>
+                    <input name="field50" id="field50" type="text">
+                  </div>
+                  <div id="field51-container" class="field f_100">
+                    <label for="field51"> If known, what is the normal body temperature of your child? </label>
+                    <input name="field51" id="field51" type="text">
+                  </div>
+                  <div id="field52-container" class="field f_100">
+                    <label for="field52"> What temperature do you consider a “fever” in your child? </label>
+                    <input name="field52" id="field52" type="text">
+                  </div>
+                  <div id="field53-container" class="field f_100 checkbox-group required">
+                    <label for="field53-1"> Does the child need more than the usual amount of anesthesia? </label>
+                    <div class="option clearfix">
+                      <input name="field53a" id="field53-1" value="Yes, to relieve pain during procedures"
+                    type="checkbox">
+                      <span class="option-title"> Yes, to relieve pain during procedures </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field53b" id="field53-2" value="Yes, to achieve unconsciousness for surgery"
+                    type="checkbox">
+                      <span class="option-title"> Yes, to achieve unconsciousness for surgery </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field53c" id="field53-3" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field53d" id="field53-4" value="No" type="checkbox">
+                      <span class="option-title"> No </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field53e" id="field53-5" value="Don't know" type="checkbox">
+                      <span class="option-title"> Don't know </span> <br>
+                    </div>
+                  </div>
+                  <div id="field54-container" class="field f_100">
+                    <label for="field54"> If other, please explain. </label>
+                    <input name="field54" id="field54" type="text">
+                  </div>
+                  
+                  <div id="field55-container" class="field f_100 checkbox-group">
+                    <p>Does the child and/or parent have one or more of the following health conditions. Check all that apply:</p>
+                    <label for="field55-1"> Auto-immune dysfunction: </label>
+                    <div class="option clearfix">
+                      <input name="field55a" id="field55-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field55b" id="field55-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field55c" id="field55-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field55d" id="field55-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field56-container" class="field f_100 checkbox-group">
+                    <label for="field56-1"> Chronic Fatigue Syndrome: </label>
+                    <div class="option clearfix">
+                      <input name="field56a" id="field56-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field56b" id="field56-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field56c" id="field56-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field56" id="field56-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field57-container" class="field f_100 checkbox-group">
+                    <label for="field57-1"> Diabetes II or insulin resistance / Pre-diabetes </label>
+                    <div class="option clearfix">
+                      <input name="field57a" id="field57-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field57b" id="field57-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field57c" id="field57-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field57d" id="field57-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field58-container" class="field f_100 checkbox-group required">
+                    <label for="field58-1"> Dysmenorrhea (females, severe pain during menstruation) </label>
+                    <div class="option clearfix">
+                      <input name="field58a" id="field58-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field58b" id="field58-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field58c" id="field58-3" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field59-container" class="field f_100 checkbox-group">
+                    <label for="field59-1"> Fibromyalgia </label>
+                    <div class="option clearfix">
+                      <input name="field59a" id="field59-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field59b" id="field59-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field59c" id="field59-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field59d" id="field59-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field60-container" class="field f_100 checkbox-group">
+                    <label for="field60-1"> Hives </label>
+                    <div class="option clearfix">
+                      <input name="field60a" id="field60-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field60b" id="field60-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field60c" id="field60-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field60d" id="field60-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field61-container" class="field f_100 checkbox-group required">
+                    <label for="field61-1"> Hirsutism (females, excessive hair growth) </label>
+                    <div class="option clearfix">
+                      <input name="field61a" id="field61-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field61b" id="field61-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field61c" id="field61-3" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field62-container" class="field f_100 checkbox-group required">
+                    <label for="field62-1"> Irregular menstrual cycles (females) </label>
+                    <div class="option clearfix">
+                      <input name="field62a" id="field62-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field62b" id="field62-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field62c" id="field62-3" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field63-container" class="field f_100 checkbox-group required">
+                    <label for="field63-1"> Joint Hypermobility Syndrome </label>
+                    <div class="option clearfix">
+                      <input name="field63a" id="field63-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field63b" id="field63-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field63c" id="field63-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field63d" id="field63-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field64-container" class="field f_100 checkbox-group required">
+                    <label for="field64-1"> Migraine headaches </label>
+                    <div class="option clearfix">
+                      <input name="field64a" id="field64-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field64b" id="field64-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field64c" id="field64-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field64d" id="field64-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field65-container" class="field f_100 checkbox-group required">
+                    <label for="field65-1"> Severe acne </label>
+                    <div class="option clearfix">
+                      <input name="field65a" id="field65-1" value="Child" type="checkbox">
+                      <span class="option-title"> Child </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field65b" id="field65-2" value="Mother" type="checkbox">
+                      <span class="option-title"> Mother </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field65c" id="field65-3" value="Father" type="checkbox">
+                      <span class="option-title"> Father </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field65d" id="field65-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field66-container" class="field f_100 radio-group required">
+                    <label for="field66-1"> Does the child have Immunoglobulin A (IgA) Deficiency? </label>
+                    <div class="option clearfix">
+                      <input name="field66" id="field66-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field66" id="field66-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field66" id="field66-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field67-container" class="field f_100">
+                    <label for="field67"> If yes, subtype [if known]: </label>
+                    <input name="field67" id="field67" type="text">
+                  </div>
+                  <div id="field68-container" class="field f_100 radio-group required">
+                    <label for="field68-1"> Does the child have Immunoglobulin G (IgG) Deficiency? </label>
+                    <div class="option clearfix">
+                      <input name="field68" id="field68-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field68" id="field68-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field68" id="field68-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field69-container" class="field f_100">
+                    <label for="field69"> If yes, subtype [if known]: </label>
+                    <input name="field69" id="field69" type="text">
+                  </div>
+                  <div id="field70-container" class="field f_100 radio-group required">
+                    <label for="field70-1"> Has your child had a seizure? </label>
+                    <div class="option clearfix">
+                      <input name="field70" id="field70-1" value="Yes" type="radio">
+                      <span class="option-title"> Yes </span> </div>
+                    <div class="option clearfix">
+                      <input name="field70" id="field70-2" value="No" type="radio">
+                      <span class="option-title"> No </span> </div>
+                    <div class="option clearfix">
+                      <input name="field70" id="field70-3" value="Don't know" type="radio">
+                      <span class="option-title"> Don't know </span> </div>
+                  </div>
+                  <div id="field72-container" class="field f_100">
+                    <label for="field72"> If yes, what age did the seizures begin? </label>
+                    <input name="field72" id="field72" type="text">
+                  </div>
+                  <div id="field73-container" class="field f_100">
+                    <label for="field73"> If yes, if they stopped, what age did they stop? </label>
+                    <input name="field73" id="field73" type="text">
+                  </div>
+                  <div id="field74-container" class="field f_100 checkbox-group">
+                    <label for="field74-1"> If yes, what type of seizures? Select all that pertain. </label>
+                    <div class="option clearfix">
+                      <input name="field74a" id="field74-1" value="Febrile" type="checkbox">
+                      <span class="option-title"> Febrile </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field74b" id="field74-2" value="Petite mal" type="checkbox">
+                      <span class="option-title"> Petite mal </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field74c" id="field74-3" value="Grand mal" type="checkbox">
+                      <span class="option-title"> Grand mal </span> <br>
+                    </div>
+                    <div class="option clearfix">
+                      <input name="field74d" id="field74-4" value="Other" type="checkbox">
+                      <span class="option-title"> Other </span> <br>
+                    </div>
+                  </div>
+                  <div id="field75-container" class="field f_100">
+                    <label for="field75"> If other, please explain. </label>
+                    <input name="field75" id="field75" type="text">
+                  </div>
+                  <div id="form-submit" class="field f_100 clearfix submit">
+                    <input value="Submit" type="submit">
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- javascript update
+================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<?php include("inc/scripts.html"); ?> 
+<!-- html5.js for IE less than 9 --> 
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<!-- css3-mediaqueries.js for IE less than 9 --> 
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]--> 
+<script src="js/ios-orientationchange-fix.js"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>jFiller jQuery Plug-in Demo. Automate Forms Filling</title>
+
+<style type="text/css" media="screen">
+    @import url("../jfiller.css");
+    @import url("./main.css");
+</style>
+
+<script type="text/javascript" src="../jquery.js"></script>
+<script type="text/javascript" src="../jquery.cookie.js"></script>
+<script type="text/javascript" src="../jfiller.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('form').FillIt();
+});
+</script>
+
+</head>
+<body>
+    <!-- Page -->
+    <div id="page">
+    
+        <h1>jFiller Auto Forms Filler &#8212; jQuery Plugin Demo</h1>
+    	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td valign="top">
+					<h2>Test Form #1</h2>
+					<form action="#" method="post">
+			    		<table cellpadding="2" cellspacing="2" class="form">
+			    			<tr>
+			    				<td><label for="first_name">First Name:</label></td>
+			    				<td><input type="text" name="first_name" id="first_name" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="last_name">Last Name:</label></td>
+			    				<td><input type="text" name="last_name" id="last_name" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="email">Email:</label></td>
+			    				<td><input type="text" name="email" id="email" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="message">Message:</label></td>
+			    				<td><textarea rows="5" cols="50" name="message" id="message"></textarea></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="yesno">Would you like?</label></td>
+			    				<td>
+			    					<select id="yesno" name="yesno">
+			    						<option value=""></option>
+			    						<option value="Yes">Yes</option>
+			    						<option value="No">No</option>
+			    					</select>
+			    				</td>
+			    			</tr>
+			    			<tr>
+			    				<td>Gender:</td>
+			    				<td>
+			    					<table cellpadding="2" cellspacing="2" border="0">
+			    						<tr>
+			    							<td><input name="gender" type="radio" value="male" id="male" /></td>
+			    							<td><label for="male">Male</label></td>
+			    						</tr>
+			    						<tr>
+			    							<td><input name="gender" type="radio" value="female" id="female" /></td>
+			    							<td><label for="female">Female</label></td>
+			    						</tr>
+			    					</table>
+			    				</td>
+			    			</tr>
+			    			<tr>
+			    				<td>Subscribe to:</td>
+			    				<td>
+			    					<table cellpadding="2" cellspacing="2" border="0">
+			    						<tr>
+			    							<td><input name="news" type="checkbox" value="news" id="news" /></td>
+			    							<td><label for="news">News</label></td>
+			    						</tr>
+			    						<tr>
+			    							<td><input name="updates" type="checkbox" value="updates" id="updates" /></td>
+			    							<td><label for="updates">Updates</label></td>
+			    						</tr>
+			    					</table>
+			    				</td>
+			    			</tr>
+			    			<tr>
+			    				<td>&nbsp;</td>
+			    				<td>
+			 						<button type="submit"><strong>Submit</strong></button>
+			 						<button type="reset">Reset</button>
+			    				</td>
+			    			</tr>
+			    		</table>
+			    	</form>
+				</td>
+				<td valign="top">
+					<h2>Test Form #2</h2>
+					<form action="#" method="post">
+			    		<table cellpadding="2" cellspacing="2" class="form">
+			    			<tr>
+			    				<td><label for="fname">New Field:</label></td>
+			    				<td><input type="text" name="fname" id="fname" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="lname">My Subscription:</label></td>
+			    				<td><input type="text" name="last_name" id="lname" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td><label for="email_">Email:</label></td>
+			    				<td><input type="text" name="email" id="email_" value="" /></td>
+			    			</tr>
+			    			<tr>
+			    				<td>&nbsp;</td>
+			    				<td>
+			 						<button type="submit"><strong>Submit</strong></button>
+			 						<button type="reset">Reset</button>
+			    				</td>
+			    			</tr>
+			    		</table>
+			    	</form>
+				</td>
+			</tr>
+		</table>
+    	<div class="relax"></div>
+	<p class="script-page"><a href="http://www.ajaxblender.com/jfiller.html">Return Back to Script's Page</a></p>
+    </div>
+
+</body>
+</html>

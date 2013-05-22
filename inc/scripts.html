@@ -1,0 +1,74 @@
+<script src="js/jquery.js"></script> 
+<script src="js/jquery-ui-1.8.16.custom.min.js"></script> 
+<script src="js/jquery.ui.touch-punch.js"></script> 
+<script src="js/bootstrap.js"></script> 
+<script src="js/prettify.js"></script> 
+<script src="js/jquery.sparkline.min.js"></script> 
+<script src="js/jquery.nicescroll.min.js"></script> 
+<script src="js/accordion.jquery.js"></script> 
+<script src="js/smart-wizard.jquery.js"></script> 
+<script src="js/vaidation.jquery.js"></script> 
+<script src="js/jquery-dynamic-form.js"></script> 
+<script src="js/fullcalendar.js"></script> 
+<script src="js/raty.jquery.js"></script> 
+<script src="js/jquery.noty.js"></script> 
+<script src="js/jquery.cleditor.min.js"></script> 
+<script src="js/data-table.jquery.js"></script> 
+<script src="js/TableTools.min.js"></script> 
+<script src="js/ColVis.min.js"></script> 
+<script src="js/plupload.full.js"></script> 
+<script src="js/elfinder/elfinder.min.js"></script> 
+<script src="js/chosen.jquery.js"></script> 
+<script src="js/jquery.tagsinput.js"></script> 
+<script src="js/jquery.colorbox-min.js"></script> 
+<script src="js/inputmask.jquery.js"></script> 
+<script src="http://bp.yahooapis.com/2.4.21/browserplus-min.js"></script> 
+<script src="js/plupupload/jquery.plupload.queue/jquery.plupload.queue.js"></script> 
+<script src="js/excanvas.min.js"></script> 
+<script src="js/jquery.jqplot.min.js"></script> 
+<script src="js/chart/jqplot.highlighter.min.js"></script> 
+<script src="js/chart/jqplot.cursor.min.js"></script> 
+<script src="js/chart/jqplot.dateAxisRenderer.min.js"></script> 
+<!--<script src="js/custom-script.js"></script> -->
+<script type="text/javascript" src="js/jquery.tools.js"></script>
+<!--<script type="text/javascript" src="js/jquery.uniform.min.js"></script>-->
+<script type="text/javascript" src="js/main.js"></script>
+
+<script>
+$(document).ready(function() {
+	$("#mustcheck").click(function() {
+		$("#begin").attr("disabled", !this.checked);
+	});
+	$('[type=text]').each(function(index) {
+		//<input data="Childs First Name" name="fielda" id="fielda" required type="text" value="">
+		var fieldid = $(this).attr("data");
+		var label = $(this).attr('data');
+		var value = $(this).val();
+		var token = "<?php echo $token ?>";
+		$.ajax({
+			url: 'populate.php',
+			data: "label=" + encodeURIComponent(label) + "&value=" +  encodeURIComponent(value) + "&token=" + token,
+			success: function(response) {           
+						//console.log("label=" + encodeURIComponent(label) + "&value=" +  encodeURIComponent(value) + "&token=" + token);
+						//console.log(response);
+					}
+				});
+	});
+
+	//testing
+//	$('[type=text]').each(function(index) {
+//	var getname = $(this).attr('name');
+//		$(this).val(getname);
+//	});
+//	$('[type=number]').each(function(index) {
+//	var getname = $(this).attr('name');
+//		$(this).val(getname);
+//	});
+//	$('textarea').each(function(index) {
+//	var getname = $(this).attr('name');
+//		$(this).val(getname);
+//	});
+//	$('[type=checkbox]').prop("checked", true);
+//	$('[type=radio]').attr("checked", "checked");
+});
+</script>

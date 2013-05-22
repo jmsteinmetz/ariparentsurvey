@@ -1,0 +1,906 @@
+ID,Date,Question,Answer
+,,"11. Unusually strong reaction: sensory pleasure",true
+,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected high intelligence"
+,,"1. Present age of child (if over 6):",10
+,,"19. Before age 3, did the child ever imitate another person? : other",bye-cake
+,,"20. Before age 3, did the child have an unusually good memory?","Remarkable memory for songs, music (humming only) & Remarkable memory for names, places, routes, etc."
+,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on? : Specific cravings",leather
+,,"9. Concerning babys health in first 3 months: learing to suck",true
+,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Yes, often and for rather long periods"
+,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","Arithmetic computation"
+,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following: multiple","music pitch"
+,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","Yes, this is typical"
+,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?",No
+,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",Yes
+,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","Yes, insisted on only certain records"
+,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Little or no interest "
+,,"Childs First Name",firstname
+,,"Childs Last Name",lastname
+,,"Childs Date of Birth",01/01/2005
+,,"Relationship to Child",mother
+,,"Fathers Occupation",occ
+,,"Fathers Past Occupation",pastocc
+,,"Mothers Occupation",occmom
+,,"Mothers Past Occupation",pastoccmom
+,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Doesn't seem to mind, or enjoys them"
+,,"Child's First Name",test
+,,"43. (Age 3-5) Is child upset by certain things that are not ","Not especially "
+,,"Child's Last Name",test
+,,"44. (Age 3-5) Does child adopt complicated ",No
+,,"Child's Date of Birth",test
+,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?",No
+,,"First Name of Person completing Form",test
+,,"46. (Age 3-5) Is the child destructive?","Not deliberately or severely destructive"
+,,"Last Name of Person completing Form",test
+,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?","Definitely not pliable "
+,,Other,wet
+,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Hyperactive, constantly moving, changes quickly from one thing to another"
+,,Father,mother
+,,"49. (Age 3-5) Does the child seem to want to be liked?","Just normally so"
+,,"Street Address",wertwer
+,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+,,City,wer
+,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","He/she rarely sees things very far out of reach"
+,,State,wer
+,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+,,Country,wer
+,,Zip,wer
+,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Only with parents"
+,,Phone,wer
+,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?","Perhaps, or rarely"
+,,"Father's Occupation",wer
+,,"55. (Age 3-5) Which set of terms best describes the child?","Aloof, indifferent, self-contented, remote"
+,,"Father's Past Occupation",wer
+,,"56. (Age 3-5) Is the child extremely fearful?","Yes, of certain animals, noises or objects"
+,,"Mother's Occupation",wer
+,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Tends toward falling or injury"
+,,"Mother's Past Occupation",wer
+,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others?","No (not a problem)"
+,,"Has the Child Been Diagnosed Before?",Yes
+,,"59. At what age did the child say his/her first words (even if later stopped talking)?","16-24 months"
+,,"If yes, what was diagnosis?",werwer
+,,"59a. Please list child's first six words (as well as you can remember them)","nana (banana)
+Dad
+Guh-Guh (Edgar, our cat)
+show (tv)
+Ahmah (Elmo)
+down"
+,,"Diagnosed By:",werwer
+,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : No, continued to talk, or never began talking","No, continued to talk or never began talking "
+,,"Where was he/she diagnosed?",wer
+,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","No, continued to talk, or never began talking "
+,,"Any other diagnosis? ",wer
+,,"1. Present age of child:","> 3"
+,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Average or below on first words, unusually good at 3-5"
+,,"2. Indicate child's sex:",Boy
+,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","Ability to ""communicate"" is pretty good -- about what you would expect from the number of words he/she knows"
+,,"3. Child's birth order and number of mothers other children:","first born"
+,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",No
+,,"Child is first born of",3
+,,"4. Were pregnancy and delivery normal?","Pregnancy and delivery both normal"
+,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","Any combination of a, b & c"
+,,"7. Appearance of child during first few weeks after birth: ","Pale, delicate looking"
+,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, including peculiar voice tone "
+,,"6. Was the child given oxygen <em>in the first</em> week?","Don't know"
+,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+,,"8. Unusual conditions of birth and infancy: Type","Unusual conditions"
+,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands fairly well "
+,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Not just repeating-- he/she understands what he/she is saying; but not well "
+,,"70. (Before age 5) Has the child used the word 'Yes'?","Seldom has used ""Yes,"" but has used it "
+,,"8. Unusual conditions of birth and infancy",jaundice
+,,"71. (Age 3-5) Does the child typically say ","No, would say ""Yes"" or ""OK"" or similar answer"
+,,"9. Concerning baby's health in first 3 months","Excellent health, no problems"
+,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","No, would ask differently "
+,,"73. (Before age 5) Has the child used the word ","Seldom has used ""I"", but has used it correctly"
+,,"74.(Before age 5) How does the child usually say ","He/she would use some rigid meaningful phrase "
+,,"9. Concerning baby's health in first 3 months: infections",
+,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?","Yes, definitely"
+,,"9. Concerning baby's health in first 3 months: learing to suck",true
+,,"9. Concerning baby's health in first 3 months: diarrhea",true
+,,"9. Concerning baby's health in first 3 months: other",123
+,,"9. Concerning baby's health in first 3 months: Type","Several of Above"
+,,"10. Has the child been given an electroencephalogram (EEG)?","Yes, it was considered normal."
+,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually strong reaction"
+,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Never was a period of normal behavior"
+,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","Yes, or I believe so"
+,,"14. Did the child rock in his/her crib as a baby?","Yes, quite a lot"
+,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Actually noticed 7-12 months"
+,,"15. At what age did the child learn to walk alone?","8-12 months"
+,,"77. Father's highest educational level ","College graduate"
+,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+,,"78. Mother's highest educational level","Graduate degree"
+,,"17. During the child's first year, did he/she seem to be unusually intelligent?","Suspected high intelligence"
+,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+,,"19. Before age 3, did the child ever imitate another person?","Yes, waved bye-bye"
+,,"20. Before age 3, did the child have an unusually good memory ?","Remarkable memory for songs, rhymes, TV commercials, etc., in words"
+,,"78. Mother's highest educational level: degree",MS
+,,"21. Did you ever suspect the child was very nearly deaf?",Yes
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : first",true
+,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","Yes, can be ""deaf"" to loud sounds, but hear low ones"
+,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.relationship","second cousin"
+,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Yes, this is typical"
+,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","Yes, often"
+,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on?","Yes, salt or salty foods"
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.Other",suicide
+,,"27. (Age 2-4) Does the child have certain eating oddities such as refusing to drink from a transparent container, eating only hot (or cold) food, eating only one or two foods, etc.?","Yes, definitely"
+,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Yes, this is a very accurate description"
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 2.Depressive",true
+,,"29. (Age 2-5) Is he/she cuddly?","Definitely, likes to cling to adults"
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 2.relationship","mat grandmother"
+,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Unusually graceful"
+,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","Yes, if you start him/her out"
+,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Average for age"
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 2.Other",alcoholism
+,,,relationship3
+,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 3.relationship"," "
+,,"Child is last born of",2
+,,"9. Concerning babys health in first 3 months: Type",Feeding
+,,"9. Concerning babys health in first 3 months: vomiting",true
+,,"19. Before age 3, did the child ever imitate another person? : Waved Bye Bye",true
+,,"19. Before age 3, did the child ever imitate another person? : Played pat-a-cake",true
+,,Mother,father
+,,"2. Indicate childs sex:",Boy
+,,"3. Childs birth order and number of mothers other children:","first born"
+,,"premature - # of weeks early?",3
+,,"premature - # of pounds",3
+,,"5. Was the birth premature (birth weight under 5 lbs.)?",Yes
+0102D7AE-1547-4604-AEBA,,"Childs First Name",wer
+0102D7AE-1547-4604-AEBA,,"Childs Last Name",wer
+0102D7AE-1547-4604-AEBA,,"Childs Date of Birth",wer
+0102D7AE-1547-4604-AEBA,,"First Name of Person completing Form",wer
+0102D7AE-1547-4604-AEBA,,"Last Name of Person completing Form",wer
+0102D7AE-1547-4604-AEBA,,"Relationship to Child",mother
+0102D7AE-1547-4604-AEBA,,"Street Address",wer
+0102D7AE-1547-4604-AEBA,,City,wer
+0102D7AE-1547-4604-AEBA,,State,wer
+0102D7AE-1547-4604-AEBA,,Country,wer
+0102D7AE-1547-4604-AEBA,,Zip,wer
+0102D7AE-1547-4604-AEBA,,Phone,wer
+0102D7AE-1547-4604-AEBA,,"Fathers Occupation",wer
+0102D7AE-1547-4604-AEBA,,"Fathers Past Occupation",wer
+0102D7AE-1547-4604-AEBA,,"Mothers Occupation",wer
+0102D7AE-1547-4604-AEBA,,"Mothers Past Occupation",wer
+0102D7AE-1547-4604-AEBA,,"Has the Child Been Diagnosed Before?",Yes
+0102D7AE-1547-4604-AEBA,,"Diagnosed By:",wer
+0102D7AE-1547-4604-AEBA,,"Where was he/she diagnosed?",wer
+0102D7AE-1547-4604-AEBA,,"Any other diagnosis? ",wer
+03D2D98A-7603-40BD-A4EB,,"Childs First Name","first name"
+03D2D98A-7603-40BD-A4EB,,"Any other diagnosis? ","yes there are"
+03D2D98A-7603-40BD-A4EB,,"1. Present age of child:","> 3"
+03D2D98A-7603-40BD-A4EB,,"2. Indicate childs sex:",Boy
+03D2D98A-7603-40BD-A4EB,,"3. Childs birth order and number of mothers other children:","Only child"
+03D2D98A-7603-40BD-A4EB,,"4. Were pregnancy and delivery normal?","Pregnancy and delivery both normal"
+03D2D98A-7603-40BD-A4EB,,"5. Was the birth premature (birth weight under 5 lbs.)?",Yes
+03D2D98A-7603-40BD-A4EB,,"6. Was the child given oxygen <em>in the first</em> week?",Yes
+03D2D98A-7603-40BD-A4EB,,"7. Appearance of child during first few weeks after birth: ","Pale, delicate looking"
+03D2D98A-7603-40BD-A4EB,,"8. Unusual conditions of birth and infancy: Type","Unusual conditions"
+03D2D98A-7603-40BD-A4EB,,"9. Concerning babys health in first 3 months","Excellent health, no problems"
+03D2D98A-7603-40BD-A4EB,,"10. Has the child been given an electroencephalogram (EEG)?","Yes, it was considered normal."
+03D2D98A-7603-40BD-A4EB,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually strong reaction"
+03D2D98A-7603-40BD-A4EB,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Never was a period of normal behavior"
+03D2D98A-7603-40BD-A4EB,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","Yes, or I believe so"
+03D2D98A-7603-40BD-A4EB,,"14. Did the child rock in his/her crib as a baby?","Yes, quite a lot"
+03D2D98A-7603-40BD-A4EB,,"15. At what age did the child learn to walk alone?","8-12 months"
+03D2D98A-7603-40BD-A4EB,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+03D2D98A-7603-40BD-A4EB,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected high intelligence"
+03D2D98A-7603-40BD-A4EB,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+03D2D98A-7603-40BD-A4EB,,"19. Before age 3, did the child ever imitate another person?","Yes, waved bye-bye"
+03D2D98A-7603-40BD-A4EB,,"20. Before age 3, did the child have an unusually good memory ?","Remarkable memory for songs, rhymes, TV commercials, etc., in words"
+03D2D98A-7603-40BD-A4EB,,"21. Did you ever suspect the child was very nearly deaf?",Yes
+03D2D98A-7603-40BD-A4EB,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","Yes, can be ""deaf"" to loud sounds, but hear low ones"
+03D2D98A-7603-40BD-A4EB,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+03D2D98A-7603-40BD-A4EB,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Yes, this is typical"
+03D2D98A-7603-40BD-A4EB,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","Yes, often"
+03D2D98A-7603-40BD-A4EB,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on? : other",oatmeal
+03D2D98A-7603-40BD-A4EB,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on?","Yes, other"
+03D2D98A-7603-40BD-A4EB,,"27. (Age 2-4) Does the child have certain eating oddities such as refusing to drink from a transparent container, eating only hot (or cold) food, eating only one or two foods, etc.?","Yes, definitely"
+03D2D98A-7603-40BD-A4EB,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Yes, this is a very accurate description"
+03D2D98A-7603-40BD-A4EB,,"29. (Age 2-5) Is he/she cuddly?","Definitely, likes to cling to adults"
+03D2D98A-7603-40BD-A4EB,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+03D2D98A-7603-40BD-A4EB,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Unusually graceful"
+03D2D98A-7603-40BD-A4EB,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","Yes, does this often"
+03D2D98A-7603-40BD-A4EB,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Exceptionally skillful"
+03D2D98A-7603-40BD-A4EB,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Yes, often and for rather long periods"
+03D2D98A-7603-40BD-A4EB,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","Assembling jig saw or similar puzzles"
+03D2D98A-7603-40BD-A4EB,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","Yes, this is typical"
+03D2D98A-7603-40BD-A4EB,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?",No
+03D2D98A-7603-40BD-A4EB,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",Yes
+03D2D98A-7603-40BD-A4EB,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","Yes, insisted on only certain records"
+03D2D98A-7603-40BD-A4EB,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Little or no interest "
+03D2D98A-7603-40BD-A4EB,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Rarely or never gets upset"
+03D2D98A-7603-40BD-A4EB,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Usually resists new clothes"
+03D2D98A-7603-40BD-A4EB,,"43. (Age 3-5) Is child upset by certain things that are not ","Not especially "
+03D2D98A-7603-40BD-A4EB,,"44. (Age 3-5) Does child adopt complicated ","Yes, definitely"
+03D2D98A-7603-40BD-A4EB,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?",No
+03D2D98A-7603-40BD-A4EB,,"46. (Age 3-5) Is the child destructive?","Yes, this is definitely a problem"
+03D2D98A-7603-40BD-A4EB,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?",Yes
+03D2D98A-7603-40BD-A4EB,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Hyperactive, constantly moving, changes quickly from one thing to another"
+03D2D98A-7603-40BD-A4EB,,"49. (Age 3-5) Does the child seem to want to be liked?","Yes, unusually so"
+03D2D98A-7603-40BD-A4EB,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+03D2D98A-7603-40BD-A4EB,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","Yes, no special problem"
+03D2D98A-7603-40BD-A4EB,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+03D2D98A-7603-40BD-A4EB,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Never, or rarely"
+03D2D98A-7603-40BD-A4EB,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?","Yes, this is typical"
+03D2D98A-7603-40BD-A4EB,,"55. (Age 3-5) Which set of terms best describes the child?","Confused, self-concerned, perplexed, dependent, worried"
+03D2D98A-7603-40BD-A4EB,,"56. (Age 3-5) Is the child extremely fearful?","Yes, of strangers or certain people"
+03D2D98A-7603-40BD-A4EB,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Tends toward falling or injury"
+03D2D98A-7603-40BD-A4EB,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others? ",Self
+03D2D98A-7603-40BD-A4EB,,"59. At what age did the child say his/her first words (even if later stopped talking)?","Has never used words"
+03D2D98A-7603-40BD-A4EB,,"59a. Please list child's first six words (as well as you can remember them)","one two three four five six"
+03D2D98A-7603-40BD-A4EB,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more?","Yes, but later talked again"
+03D2D98A-7603-40BD-A4EB,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","Yes, but later talked again"
+03D2D98A-7603-40BD-A4EB,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Too little speech to tell, or other answer"
+03D2D98A-7603-40BD-A4EB,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","He/she can point to many objects I name, but doesn't speak or ""communicate"""
+03D2D98A-7603-40BD-A4EB,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",Yes
+03D2D98A-7603-40BD-A4EB,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","a. ""(John) fell down;"" or ""Baby (or Boy) fall down."""
+03D2D98A-7603-40BD-A4EB,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, except voice not hollow or parrot-like "
+03D2D98A-7603-40BD-A4EB,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+03D2D98A-7603-40BD-A4EB,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Doesn't talk enough to tell "
+03D2D98A-7603-40BD-A4EB,,"70. (Before age 5) Has the child used the word 'Yes'?","Has used ""Yes"" fairly often and correctly "
+03D2D98A-7603-40BD-A4EB,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands very well "
+03D2D98A-7603-40BD-A4EB,,"71. (Age 3-5) Does the child typically say ","Yes, definitely, does not say ""yes"" directly "
+03D2D98A-7603-40BD-A4EB,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","Yes, definitely (uses ""You"" instead of ""I"") "
+03D2D98A-7603-40BD-A4EB,,"73. (Before age 5) Has the child used the word ","Has used ""I"" fairly often and correctly "
+03D2D98A-7603-40BD-A4EB,,"74.(Before age 5) How does the child usually say ","He/she would just say ""No"" "
+03D2D98A-7603-40BD-A4EB,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?","Yes, definitely"
+03D2D98A-7603-40BD-A4EB,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Might have noticed 2 years-3 years"
+03D2D98A-7603-40BD-A4EB,,"77. Father's highest educational level ","Did not graduate high school "
+03D2D98A-7603-40BD-A4EB,,"78. Mother's highest educational level","Did not graduate high school"
+03D2D98A-7603-40BD-A4EB,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : first",true
+03D2D98A-7603-40BD-A4EB,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.relationship",grandpa
+03D2D98A-7603-40BD-A4EB,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.Depressive",true
+03D2D98A-7603-40BD-A4EB,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.Schizophrenia",true
+03D2D98A-7603-40BD-A4EB,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. : 1.Other",gout
+03D2D98A-7603-40BD-A4EB,,"80. Before age 2, arched back and bent head back, when held","Very true"
+03D2D98A-7603-40BD-A4EB,,"81. Before age 2, struggled against being held","Very true"
+03D2D98A-7603-40BD-A4EB,,"82. Before age 10, abnormal craving for certain food","Very true"
+03D2D98A-7603-40BD-A4EB,,"83. Before age 10, eats unusually large amounts of food","Very true"
+03D2D98A-7603-40BD-A4EB,,"84. Before age 10, covers ears at many sounds","Very true"
+03D2D98A-7603-40BD-A4EB,,"85. Before age 10, only certain sounds seem painful to him/her","Very true"
+03D2D98A-7603-40BD-A4EB,,"86. Before age 10, fails to blink at bright lights","Very true"
+03D2D98A-7603-40BD-A4EB,,"87. Before age 10, skin color lighter or darker than others in family:","Very true"
+03D2D98A-7603-40BD-A4EB,,"88. Before age 10, prefers inanimate (nonliving) things","Very true"
+03D2D98A-7603-40BD-A4EB,,"89. Before age 10, avoids people","Very true"
+03D2D98A-7603-40BD-A4EB,,"90. Before age 10, insists on keeping certain object with him/her","Very true"
+03D2D98A-7603-40BD-A4EB,,"91. Before age 10, always frightened or very anxious","Very true"
+03D2D98A-7603-40BD-A4EB,,"92. Before age 10, inconsolable crying","Very true"
+03D2D98A-7603-40BD-A4EB,,"93. Before age 10, notices changes or imperfections and tries to correct them","Very true"
+03D2D98A-7603-40BD-A4EB,,"94. Before age 10, tidy (neat, avoids messy things)","Very true"
+03D2D98A-7603-40BD-A4EB,,"95. Before age 10, has collected a particular thing (toy horses, bits of glass, etc.)","Very true"
+03D2D98A-7603-40BD-A4EB,,"96. Before age 10, after delay, repeat <strong>phrases</strong> he/she has heard","Very true"
+03D2D98A-7603-40BD-A4EB,," 97. Before age 10, after delay, repeats <strong>whole sentences</strong> he/she has heard","Very true"
+03D2D98A-7603-40BD-A4EB,," 98. Before age 10, repeats <strong>questions</strong> or <strong>conversations</strong> he/she has heard, over and over, without variation","Very true"
+03D2D98A-7603-40BD-A4EB,,"99. Before age 10, gets ","Very true"
+03D2D98A-7603-40BD-A4EB,,"100. Before age 10, examines surfaces with fingers","Very true"
+03D2D98A-7603-40BD-A4EB,,"101. Before age 10, holds bizarre pose or posture","Very true"
+03D2D98A-7603-40BD-A4EB,,"102. Before age 10, chews or swallows nonfood objects","Very true"
+03D2D98A-7603-40BD-A4EB,,"103. Before age 10, dislikes being touched or held","Very true"
+03D2D98A-7603-40BD-A4EB,,"104. Before age 10, intensely aware of odors","Very true"
+03D2D98A-7603-40BD-A4EB,,"105. Before age 10, hides skill or knowledge, so you are surprised later on","Very true"
+03D2D98A-7603-40BD-A4EB,,"106. Before age 10, seems not to feel pain","Very true"
+03D2D98A-7603-40BD-A4EB,,"107. Before age 10, terrified at unusual happenings","Very true"
+03D2D98A-7603-40BD-A4EB,,"108. Before age 10, learned words useless to him/herself","Very true"
+03D2D98A-7603-40BD-A4EB,,"109. Before age 10, learned certain words, then stopped using them","Very true"
+123F5BCC-560E-4B47-B814,,"11. Unusually strong reaction: dislike",true
+123F5BCC-560E-4B47-B814,,"11. Unusually strong reaction: sensory pleasure",true
+123F5BCC-560E-4B47-B814,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Never was a period of normal behavior"
+123F5BCC-560E-4B47-B814,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually unresponsive."
+123F5BCC-560E-4B47-B814,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","No, I dont think he/she did"
+123F5BCC-560E-4B47-B814,,"19. Before age 3, did the child ever imitate another person? : Played pat-a-cake",true
+123F5BCC-560E-4B47-B814,,"19. Before age 3, did the child ever imitate another person? : Waved Bye Bye",true
+123F5BCC-560E-4B47-B814,,"14. Did the child rock in his/her crib as a baby?","Dont know"
+123F5BCC-560E-4B47-B814,,"15. At what age did the child learn to walk alone?","8-12 months"
+123F5BCC-560E-4B47-B814,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+123F5BCC-560E-4B47-B814,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Child looked somewhat dull"
+123F5BCC-560E-4B47-B814,,"18. During the childs first 2 years, did he/she like to be held?","Don't know"
+123F5BCC-560E-4B47-B814,,"20. Before age 3, did the child have an unusually good memory?","Remarkable memory for songs, rhymes, TV commercials, etc., in words & Remarkable memory for names, places, routes, etc."
+123F5BCC-560E-4B47-B814,,"19. Before age 3, did the child ever imitate another person?","Yes, other"
+123F5BCC-560E-4B47-B814,,"19. Before age 3, did the child ever imitate another person? : other",eewerw
+123F5BCC-560E-4B47-B814,,"20. Before age 3, did the child have an unusually good memory ?","Remarkable memory for songs, rhymes, TV commercials, etc., in words"
+123F5BCC-560E-4B47-B814,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","Yes, can be ""deaf"" to loud sounds, but hear low ones"
+123F5BCC-560E-4B47-B814,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+123F5BCC-560E-4B47-B814,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Yes, this is typical"
+123F5BCC-560E-4B47-B814,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","Yes, often"
+123F5BCC-560E-4B47-B814,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on?","Yes, other"
+123F5BCC-560E-4B47-B814,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on? : other",field261
+123F5BCC-560E-4B47-B814,,"27. (Age 2-4) Does the child have certain eating oddities such as refusing to drink from a transparent container, eating only hot (or cold) food, eating only one or two foods, etc.?","Yes, definitely"
+123F5BCC-560E-4B47-B814,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Yes, this is a very accurate description"
+123F5BCC-560E-4B47-B814,,"29. (Age 2-5) Is he/she cuddly?","Don't know"
+123F5BCC-560E-4B47-B814,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+123F5BCC-560E-4B47-B814,,"30.(Age 3-5) Does the child deliberately hit his/her own head? : Type1 ","b. Yes, usually by slapping it with his/her hand"
+123F5BCC-560E-4B47-B814,,"30.(Age 3-5) Does the child deliberately hit his/her own head? : Type2","c. Yes, usually by banging it against someone elses legs or head"
+123F5BCC-560E-4B47-B814,,"30.(Age 3-5) Does the child deliberately hit his/her own head? : Type3","d. Yes, usually by hitting walls, floor, furniture, etc."
+123F5BCC-560E-4B47-B814,,"1. Did you ever suspect the child was very nearly deaf?",No
+123F5BCC-560E-4B47-B814,,"21. Did you ever suspect the child was very nearly deaf?",Yes
+123F5BCC-560E-4B47-B814,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Somewhat below average; or poor"
+123F5BCC-560E-4B47-B814,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","No, he/she shows no tendancy to whirl"
+123F5BCC-560E-4B47-B814,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Dont know"
+123F5BCC-560E-4B47-B814,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Very seldom, or never"
+123F5BCC-560E-4B47-B814,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following: other",field35wwww2
+123F5BCC-560E-4B47-B814,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following: multiple",field35m2
+123F5BCC-560E-4B47-B814,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","More than one of above"
+123F5BCC-560E-4B47-B814,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","Yes, insisted on only certain records"
+123F5BCC-560E-4B47-B814,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",Yes
+123F5BCC-560E-4B47-B814,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?",No
+123F5BCC-560E-4B47-B814,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","Yes, this is typical"
+123F5BCC-560E-4B47-B814,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Little or no interest "
+123F5BCC-560E-4B47-B814,,"Childs Date of Birth",e
+123F5BCC-560E-4B47-B814,,"Last Name of Person completing Form",sdf
+123F5BCC-560E-4B47-B814,,"Childs Last Name",sdf
+123F5BCC-560E-4B47-B814,,,
+123F5BCC-560E-4B47-B814,,"Childs First Name",ret
+123F5BCC-560E-4B47-B814,,"71. (Age 3-5) Does the child typically say ","Not sure "
+123F5BCC-560E-4B47-B814,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","Yes, definitely (uses ""You"" instead of ""I"") "
+123F5BCC-560E-4B47-B814,,"73. (Before age 5) Has the child used the word ","Has used ""I"" fairly often and correctly "
+123F5BCC-560E-4B47-B814,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?","Yes, definitely"
+123F5BCC-560E-4B47-B814,,"74.(Before age 5) How does the child usually say ","Other, or too little speech to tell "
+123F5BCC-560E-4B47-B814,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Might have noticed in first 3 months"
+123F5BCC-560E-4B47-B814,,"77. Father's highest educational level ","Did not graduate high school "
+123F5BCC-560E-4B47-B814.php,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Rarely or never gets upset"
+123F5BCC-560E-4B47-B814.php,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Usually resists new clothes"
+123F5BCC-560E-4B47-B814.php,,"43. (Age 3-5) Is child upset by certain things that are not ","Not especially "
+123F5BCC-560E-4B47-B814.php,,"44. (Age 3-5) Does child adopt complicated ","Yes, definitely"
+123F5BCC-560E-4B47-B814.php,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?",No
+123F5BCC-560E-4B47-B814.php,,"46. (Age 3-5) Is the child destructive?","Yes, this is definitely a problem"
+123F5BCC-560E-4B47-B814.php,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?",Yes
+123F5BCC-560E-4B47-B814.php,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Hyperactive, constantly moving, changes quickly from one thing to another"
+123F5BCC-560E-4B47-B814.php,,"49. (Age 3-5) Does the child seem to want to be liked?","Yes, unusually so"
+123F5BCC-560E-4B47-B814.php,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+123F5BCC-560E-4B47-B814.php,,,"Yes, no special problem"
+123F5BCC-560E-4B47-B814.php,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","Yes, no special problem"
+123F5BCC-560E-4B47-B814.php,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+123F5BCC-560E-4B47-B814.php,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Never, or rarely"
+123F5BCC-560E-4B47-B814.php,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?","Yes, this is typical"
+123F5BCC-560E-4B47-B814.php,,"56. (Age 3-5) Is the child extremely fearful?","Yes, of strangers or certain people"
+123F5BCC-560E-4B47-B814.php,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Tends toward falling or injury"
+123F5BCC-560E-4B47-B814.php,,"55. (Age 3-5) Which set of terms best describes the child?","Confused, self-concerned, perplexed, dependent, worried"
+123F5BCC-560E-4B47-B814.php,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others? ",Self
+123F5BCC-560E-4B47-B814.php,,"59. At what age did the child say his/her first words (even if later stopped talking)?",field59a1ffffff
+123F5BCC-560E-4B47-B814.php,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but never started again (age stopped)",field60b1
+123F5BCC-560E-4B47-B814.php,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but later talked again (duration)",field60a2
+123F5BCC-560E-4B47-B814.php,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but later talked again (age stopped)",field60a1
+123F5BCC-560E-4B47-B814.php,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : No, continued to talk, or never began talking","No, continued to talk or never began talking "
+123F5BCC-560E-4B47-B814.php,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more?","Yes, but never started again"
+123F5BCC-560E-4B47-B814.php,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? : Yes, but later talked again (age stopped)",234
+123F5BCC-560E-4B47-B814.php,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? : duration",234
+123F5BCC-560E-4B47-B814.php,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? Now doesn't even whisper (stopped talk)",
+123F5BCC-560E-4B47-B814.php,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? Yes, still only whispers (age stopped talking)",
+123F5BCC-560E-4B47-B814.php,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","Now doesn't even whisper"
+123F5BCC-560E-4B47-B814.php,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Average or below average pronunciation of first words (""wabbit,"" etc.) and also poor at 3 to 5"
+123F5BCC-560E-4B47-B814.php,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","He/she can point to many objects I name, but doesn't speak or ""communicate"""
+123F5BCC-560E-4B47-B814.php,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",Yes
+123F5BCC-560E-4B47-B814.php,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before? : Examples",234
+123F5BCC-560E-4B47-B814.php,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","Any combination of a, b & c"
+123F5BCC-560E-4B47-B814.php,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, except voice not hollow or parrot-like "
+123F5BCC-560E-4B47-B814.php,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+123F5BCC-560E-4B47-B814.php,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Understands a little, if you repeat and repeat "
+123F5BCC-560E-4B47-B814.php,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Doesn't talk enough to tell "
+123F5BCC-560E-4B47-B814.php,,"70. (Before age 5) Has the child used the word ","Has used ""Yes"" fairly often and correctly "
+19111C08-ABF3-46CA-AAD0,,"Childs First Name"," "
+19111C08-ABF3-46CA-AAD0,,"Childs Last Name"," "
+19111C08-ABF3-46CA-AAD0,,"Childs Date of Birth"," "
+19111C08-ABF3-46CA-AAD0,,"First Name of Person completing Form"," "
+19111C08-ABF3-46CA-AAD0,,"Last Name of Person completing Form"," "
+46B9667E-6B1F-4DFD-8715,,"80. Before age 2, arched back and bent head back, when held","Very true"
+46B9667E-6B1F-4DFD-8715,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? : Yes, but later talked again (age stopped)",1
+46B9667E-6B1F-4DFD-8715,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? : duration",1
+46B9667E-6B1F-4DFD-8715,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? Yes, still only whispers (age stopped talking)",
+46B9667E-6B1F-4DFD-8715,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","Yes, still only whispers"
+46B9667E-6B1F-4DFD-8715,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Unusually good on first words, and also at 3-5"
+46B9667E-6B1F-4DFD-8715,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","Doesn't use or understand words "
+46B9667E-6B1F-4DFD-8715,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",Yes
+46B9667E-6B1F-4DFD-8715,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before? : Examples",333
+46B9667E-6B1F-4DFD-8715,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","a. ""(John) fell down;"" or ""Baby (or Boy) fall down."""
+46B9667E-6B1F-4DFD-8715,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, except voice not hollow or parrot-like "
+46B9667E-6B1F-4DFD-8715,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+46B9667E-6B1F-4DFD-8715,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands very well "
+46B9667E-6B1F-4DFD-8715,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Doesn't talk enough to tell "
+46B9667E-6B1F-4DFD-8715,,"70. (Before age 5) Has the child used the word 'Yes'?","Has used ""Yes"" fairly often and correctly "
+46B9667E-6B1F-4DFD-8715,,"71. (Age 3-5) Does the child typically say ","Yes, definitely, does not say ""yes"" directly "
+46B9667E-6B1F-4DFD-8715,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","Yes, definitely (uses ""You"" instead of ""I"") "
+46B9667E-6B1F-4DFD-8715,,"73. (Before age 5) Has the child used the word ","Has used ""I"" fairly often and correctly "
+46B9667E-6B1F-4DFD-8715,,"74.(Before age 5) How does the child usually say ","He/she would just say ""No"" "
+46B9667E-6B1F-4DFD-8715,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?","Yes, definitely"
+46B9667E-6B1F-4DFD-8715,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Might have noticed 2 years-3 years"
+46B9667E-6B1F-4DFD-8715,,"77. Father's highest educational level ","Graduate degree"
+46B9667E-6B1F-4DFD-8715,,"77. Father's highest educational level : degreee",555
+46B9667E-6B1F-4DFD-8715,,"78. Mother's highest educational level","Graduate degree"
+46B9667E-6B1F-4DFD-8715,,"78. Mother's highest educational level: degree",555
+46B9667E-6B1F-4DFD-8715,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded : none",true
+46B9667E-6B1F-4DFD-8715,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded. ",relationship1
+636A2C3E-C70B-4D97-9EA5,,"Childs First Name",sdf
+636A2C3E-C70B-4D97-9EA5,,"Childs Last Name",sdf
+636A2C3E-C70B-4D97-9EA5,,"Where was he/she diagnosed?",sdf
+636A2C3E-C70B-4D97-9EA5,,"Any other diagnosis? ",sdf
+6D0CF05F-22D5-4539-9359,,"Childs First Name",Elvis
+6D0CF05F-22D5-4539-9359,,"Childs Last Name",Presley
+6D0CF05F-22D5-4539-9359,,"Childs Date of Birth",1/1/01
+6D0CF05F-22D5-4539-9359,,"First Name of Person completing Form",Vernon
+6D0CF05F-22D5-4539-9359,,"Last Name of Person completing Form",Presley
+6D0CF05F-22D5-4539-9359,,Mother,father
+6D0CF05F-22D5-4539-9359,,"Street Address","80 w 39th"
+6D0CF05F-22D5-4539-9359,,City,Eugene
+6D0CF05F-22D5-4539-9359,,State,OR
+6D0CF05F-22D5-4539-9359,,Country,USA
+6D0CF05F-22D5-4539-9359,,Zip,97405
+6D0CF05F-22D5-4539-9359,,Phone,5415059997
+6D0CF05F-22D5-4539-9359,,"Fathers Occupation","goat milker"
+6D0CF05F-22D5-4539-9359,,"Fathers Past Occupation","admin assist"
+6D0CF05F-22D5-4539-9359,,"Mothers Occupation",housewife
+6D0CF05F-22D5-4539-9359,,"Mothers Past Occupation","race car driver"
+6D0CF05F-22D5-4539-9359,,"Has the Child Been Diagnosed Before?",Yes
+6D0CF05F-22D5-4539-9359,,"If yes, what was diagnosis?",leprosy
+6D0CF05F-22D5-4539-9359,,"Diagnosed By:","The Colonel"
+6D0CF05F-22D5-4539-9359,,"Where was he/she diagnosed?","Sun Records"
+6D0CF05F-22D5-4539-9359,,"Any other diagnosis? ","The King"
+6D0CF05F-22D5-4539-9359,,"1. Present age of child:","6 >"
+6D0CF05F-22D5-4539-9359,,"1. Present age of child (if over 6):",70
+6D0CF05F-22D5-4539-9359,,"2. Indicate childs sex:",Boy
+6D0CF05F-22D5-4539-9359,,"3. Childs birth order and number of mothers other children:","first born"
+6D0CF05F-22D5-4539-9359,,"Child is first born of",2
+6D0CF05F-22D5-4539-9359,,"4. Were pregnancy and delivery normal?","Pregnancy and delivery both normal"
+6D0CF05F-22D5-4539-9359,,"5. Was the birth premature (birth weight under 5 lbs.)?",No
+6D0CF05F-22D5-4539-9359,,"6. Was the child given oxygen <em>in the first</em> week?",No
+6D0CF05F-22D5-4539-9359,,"7. Appearance of child during first few weeks after birth: ","Average, don't know, or other"
+6D0CF05F-22D5-4539-9359,,"8. Unusual conditions of birth and infancy",seizures
+6D0CF05F-22D5-4539-9359,,"8. Unusual conditions of birth and infancy: Twins",fraternal
+6D0CF05F-22D5-4539-9359,,"9. Concerning babys health in first 3 months","Excellent health, no problems"
+6D0CF05F-22D5-4539-9359,,"8. Unusual conditions of birth and infancy: Type","Unusual conditions"
+6D0CF05F-22D5-4539-9359,,"10. Has the child been given an electroencephalogram (EEG)?",No
+6D0CF05F-22D5-4539-9359,,"11. Unusually strong reaction: sensory pleasure",true
+6D0CF05F-22D5-4539-9359,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually strong reaction"
+6D0CF05F-22D5-4539-9359,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Normal during first year"
+6D0CF05F-22D5-4539-9359,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","Dont know"
+6D0CF05F-22D5-4539-9359,,"14. Did the child rock in his/her crib as a baby?","No, or very little"
+6D0CF05F-22D5-4539-9359,,"15. At what age did the child learn to walk alone?","8-12 months"
+6D0CF05F-22D5-4539-9359,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+6D0CF05F-22D5-4539-9359,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected high intelligence"
+6D0CF05F-22D5-4539-9359,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+6D0CF05F-22D5-4539-9359,,"19. Before age 3, did the child ever imitate another person?","Two or more types"
+6D0CF05F-22D5-4539-9359,,"19. Before age 3, did the child ever imitate another person? : Waved Bye Bye",true
+6D0CF05F-22D5-4539-9359,,"19. Before age 3, did the child ever imitate another person? : Played pat-a-cake",true
+6D0CF05F-22D5-4539-9359,,"20. Before age 3, did the child have an unusually good memory?","Remarkable memory for songs, music (humming only) & Remarkable memory for names, places, routes, etc."
+6D0CF05F-22D5-4539-9359,,"21. Did you ever suspect the child was very nearly deaf?",No
+6D0CF05F-22D5-4539-9359,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","No, this is not true of him/her"
+6D0CF05F-22D5-4539-9359,,"23.(Age 2-4) Does child hold his/her hands in strange postures?",No
+6D0CF05F-22D5-4539-9359,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Yes, this is typical"
+6D0CF05F-22D5-4539-9359,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","No, doesn't do this"
+6D0CF05F-22D5-4539-9359,,,"No, or not sure"
+6D0CF05F-22D5-4539-9359,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Not an accurate description"
+6D0CF05F-22D5-4539-9359,,"29. (Age 2-5) Is he/she cuddly?","Definitely, likes to cling to adults"
+6D0CF05F-22D5-4539-9359,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+6D0CF05F-22D5-4539-9359,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Somewhat below average; or poor"
+6D0CF05F-22D5-4539-9359,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","Yes, sometimes"
+6D0CF05F-22D5-4539-9359,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","A little awkward, or very awkward"
+6D0CF05F-22D5-4539-9359,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Very seldom, or never"
+6D0CF05F-22D5-4539-9359,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","No unusual skill or not sure"
+6D0CF05F-22D5-4539-9359,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","No or rarely"
+6D0CF05F-22D5-4539-9359,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?","Not sure"
+6D0CF05F-22D5-4539-9359,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",No
+6D0CF05F-22D5-4539-9359,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","Liked to listen, but didn't demand to"
+6D0CF05F-22D5-4539-9359,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Average interest"
+6D0CF05F-22D5-4539-9359,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Typically gets very upset"
+6D0CF05F-22D5-4539-9359,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Doesn't seem to mind, or enjoys them"
+6D0CF05F-22D5-4539-9359,,"43. (Age 3-5) Is child upset by certain things that are not ","Not sure"
+6D0CF05F-22D5-4539-9359,,"44. (Age 3-5) Does child adopt complicated ",No
+6D0CF05F-22D5-4539-9359,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?","Slightly true"
+6D0CF05F-22D5-4539-9359,,"46. (Age 3-5) Is the child destructive?","Not especially destructive"
+6D0CF05F-22D5-4539-9359,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?","Definitely not pliable "
+6D0CF05F-22D5-4539-9359,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Watches television quietly for long periods"
+6D0CF05F-22D5-4539-9359,,"49. (Age 3-5) Does the child seem to want to be liked?","Indifferent to being liked; happiest when left alone"
+6D0CF05F-22D5-4539-9359,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+6D0CF05F-22D5-4539-9359,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","He/she examines things with fingers and mouth only"
+6D0CF05F-22D5-4539-9359,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+6D0CF05F-22D5-4539-9359,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Never, or rarely"
+6D0CF05F-22D5-4539-9359,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?","Perhaps, or rarely"
+6D0CF05F-22D5-4539-9359,,"55. (Age 3-5) Which set of terms best describes the child?","Aloof, indifferent, self-contented, remote"
+6D0CF05F-22D5-4539-9359,,"56. (Age 3-5) Is the child extremely fearful?","Child ignores or is unaware of fearsome objects"
+6D0CF05F-22D5-4539-9359,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Surprisingly safe despite active climbing, swimming, etc."
+6D0CF05F-22D5-4539-9359,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others?","No (not a problem)"
+6D0CF05F-22D5-4539-9359,,"59. At what age did the child say his/her first words (even if later stopped talking)?","8-12 months"
+6D0CF05F-22D5-4539-9359,,"59a. Please list child's first six words (as well as you can remember them)","hunka hunka, return to sender, viva las vegas, there's rain in my shoes."
+6D0CF05F-22D5-4539-9359,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : No, continued to talk, or never began talking","No, continued to talk or never began talking "
+6D0CF05F-22D5-4539-9359,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but never started again (age stopped)",
+6D0CF05F-22D5-4539-9359,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but later talked again (age stopped)",45
+6D0CF05F-22D5-4539-9359,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more?","Yes, but later talked again"
+6D0CF05F-22D5-4539-9359,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : Yes, but later talked again (duration)",1258
+6D0CF05F-22D5-4539-9359,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","No, continued to talk, or never began talking "
+6D0CF05F-22D5-4539-9359,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Average or below average pronunciation of first words (""wabbit,"" etc.) and also poor at 3 to 5"
+6D0CF05F-22D5-4539-9359,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","He/she can correctly name many objects, but not ""communicate"""
+6D0CF05F-22D5-4539-9359,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",No
+6D0CF05F-22D5-4539-9359,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","a. ""(John) fell down;"" or ""Baby (or Boy) fall down."""
+6D0CF05F-22D5-4539-9359,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, except voice not hollow or parrot-like "
+6D0CF05F-22D5-4539-9359,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Too little speech to tell"
+6D0CF05F-22D5-4539-9359,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands fairly well "
+6D0CF05F-22D5-4539-9359,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Not just repeating-- he/she understands what he/she is saying; but not well "
+6D0CF05F-22D5-4539-9359,,"70. (Before age 5) Has the child used the word 'Yes'?","Seldom has used ""Yes,"" but has used it "
+6D0CF05F-22D5-4539-9359,,"71. (Age 3-5) Does the child typically say ","Too little speech to say"
+6D0CF05F-22D5-4539-9359,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","No, would ask differently "
+6D0CF05F-22D5-4539-9359,,"73. (Before age 5) Has the child used the word ","Has no speech, or too little speech to tell "
+6D0CF05F-22D5-4539-9359,,"74.(Before age 5) How does the child usually say ","Would use phrase having only private meaning like ""Daddy go in car"" "
+6D0CF05F-22D5-4539-9359,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?",No
+6D0CF05F-22D5-4539-9359,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Might have noticed after 4th year"
+6D0CF05F-22D5-4539-9359,,"77. Father's highest educational level ","Some graduate work "
+6D0CF05F-22D5-4539-9359,,"78. Mother's highest educational level","Did not graduate high school"
+6D0CF05F-22D5-4539-9359,,"80. Before age 2, arched back and bent head back, when held","Very true"
+6D0CF05F-22D5-4539-9359,,"91. Before age 10, always frightened or very anxious",True
+6D0CF05F-22D5-4539-9359,,"92. Before age 10, inconsolable crying",True
+6D0CF05F-22D5-4539-9359,,"93. Before age 10, notices changes or imperfections and tries to correct them","Very true"
+6D0CF05F-22D5-4539-9359,,"94. Before age 10, tidy (neat, avoids messy things)",True
+6D0CF05F-22D5-4539-9359,,"95. Before age 10, has collected a particular thing (toy horses, bits of glass, etc.)",False
+6D0CF05F-22D5-4539-9359,,"96. Before age 10, after delay, repeat <strong>phrases</strong> he/she has heard","Very true"
+6D0CF05F-22D5-4539-9359,," 97. Before age 10, after delay, repeats <strong>whole sentences</strong> he/she has heard","Very true"
+6D0CF05F-22D5-4539-9359,," 98. Before age 10, repeats <strong>questions</strong> or <strong>conversations</strong> he/she has heard, over and over, without variation","Very true"
+6D0CF05F-22D5-4539-9359,,"99. Before age 10, gets ","Very true"
+6D0CF05F-22D5-4539-9359,,"100. Before age 10, examines surfaces with fingers",True
+79DC937A-1AAF-44EE-81AE,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected average intelligence"
+79DC937A-1AAF-44EE-81AE,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+79DC937A-1AAF-44EE-81AE,,"19. Before age 3, did the child ever imitate another person?","Two or more types"
+79DC937A-1AAF-44EE-81AE,,"19. Before age 3, did the child ever imitate another person? : Waved Bye Bye",true
+79DC937A-1AAF-44EE-81AE,,"19. Before age 3, did the child ever imitate another person? : Played pat-a-cake",true
+79DC937A-1AAF-44EE-81AE,,"20. Before age 3, did the child have an unusually good memory?","No evidence for remarkable memory"
+79DC937A-1AAF-44EE-81AE,,"19. Before age 3, did the child ever imitate another person? : other","stuck out tongue, clapped, sang songs"
+79DC937A-1AAF-44EE-81AE,,"21. Did you ever suspect the child was very nearly deaf?",No
+79DC937A-1AAF-44EE-81AE,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","No, this is not true of him/her"
+79DC937A-1AAF-44EE-81AE,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+79DC937A-1AAF-44EE-81AE,,"Childs First Name",Jack
+79DC937A-1AAF-44EE-81AE,,"Childs Last Name",Fulton
+79DC937A-1AAF-44EE-81AE,,"Childs Date of Birth",04-14-2010
+79DC937A-1AAF-44EE-81AE,,"First Name of Person completing Form",Denise
+79DC937A-1AAF-44EE-81AE,,"Last Name of Person completing Form",Fulton
+79DC937A-1AAF-44EE-81AE,,"Relationship to Child",mother
+79DC937A-1AAF-44EE-81AE,,"Street Address","2328 Whitworth"
+79DC937A-1AAF-44EE-81AE,,City,Bham
+79DC937A-1AAF-44EE-81AE,,State,wa
+79DC937A-1AAF-44EE-81AE,,Country,us
+79DC937A-1AAF-44EE-81AE,,Zip,98229
+79DC937A-1AAF-44EE-81AE,,Phone,3604027511
+79DC937A-1AAF-44EE-81AE,,"Fathers Occupation","foundation dir"
+79DC937A-1AAF-44EE-81AE,,"Fathers Past Occupation",same
+79DC937A-1AAF-44EE-81AE,,"Mothers Occupation",ari
+79DC937A-1AAF-44EE-81AE,,"Mothers Past Occupation","verisign "
+79DC937A-1AAF-44EE-81AE,,"Has the Child Been Diagnosed Before?",Yes
+79DC937A-1AAF-44EE-81AE,,"Diagnosed By:","Karen Toth, PhD"
+79DC937A-1AAF-44EE-81AE,,"Where was he/she diagnosed?","UW seattle"
+79DC937A-1AAF-44EE-81AE,,"Any other diagnosis? ",
+79DC937A-1AAF-44EE-81AE,,"1. Present age of child:","> 3"
+79DC937A-1AAF-44EE-81AE,,"2. Indicate childs sex:",Boy
+79DC937A-1AAF-44EE-81AE,,"Child is last born of",2
+79DC937A-1AAF-44EE-81AE,,"3. Childs birth order and number of mothers other children:","last born"
+79DC937A-1AAF-44EE-81AE,,"4. Were pregnancy and delivery normal?","Pregnancy and delivery both normal"
+79DC937A-1AAF-44EE-81AE,,"5. Was the birth premature (birth weight under 5 lbs.)?",No
+79DC937A-1AAF-44EE-81AE,,"6. Was the child given oxygen <em>in the first</em> week?",No
+79DC937A-1AAF-44EE-81AE,,"7. Appearance of child during first few weeks after birth: ","Average, don't know, or other"
+79DC937A-1AAF-44EE-81AE,,"9. Concerning babys health in first 3 months: Type",Feeding
+79DC937A-1AAF-44EE-81AE,,"9. Concerning babys health in first 3 months: vomiting",true
+79DC937A-1AAF-44EE-81AE,,"10. Has the child been given an electroencephalogram (EEG)?",No
+79DC937A-1AAF-44EE-81AE,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually strong reaction"
+79DC937A-1AAF-44EE-81AE,,"11. Unusually strong reaction: dislike",true
+79DC937A-1AAF-44EE-81AE,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Normal during first 6 months"
+79DC937A-1AAF-44EE-81AE,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","No, I dont think he/she did"
+79DC937A-1AAF-44EE-81AE,,"14. Did the child rock in his/her crib as a baby?","No, or very little"
+79DC937A-1AAF-44EE-81AE,,"15. At what age did the child learn to walk alone?","13-15 months"
+79DC937A-1AAF-44EE-81AE,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+7E5FD42E-4130-49A1-8DA4,,"Childs Date of Birth",sdfsdf
+7E5FD42E-4130-49A1-8DA4,,,
+7E5FD42E-4130-49A1-8DA4,,"Childs Last Name",
+7E5FD42E-4130-49A1-8DA4,,"Childs First Name",
+98B1C73D-D4B6-4FFC-BC11,,"Child's First Name",wer
+98B1C73D-D4B6-4FFC-BC11,,"Child's Last Name",wer
+98B1C73D-D4B6-4FFC-BC11,,"Child's Date of Birth",wer
+98B1C73D-D4B6-4FFC-BC11,,"First Name of Person completing Form",wer
+98B1C73D-D4B6-4FFC-BC11,,"Last Name of Person completing Form",wer
+98B1C73D-D4B6-4FFC-BC11,,Father,mother
+98B1C73D-D4B6-4FFC-BC11,,"Street Address",wer
+98B1C73D-D4B6-4FFC-BC11,,City,wer
+98B1C73D-D4B6-4FFC-BC11,,State,wer
+98B1C73D-D4B6-4FFC-BC11,,"Father's Past Occupation",
+98B1C73D-D4B6-4FFC-BC11,,"Father's Occupation",wer
+98B1C73D-D4B6-4FFC-BC11,,"Mother's Occupation",wer
+98B1C73D-D4B6-4FFC-BC11,,"Mother's Past Occupation",wer
+98B1C73D-D4B6-4FFC-BC11,,"Has the Child Been Diagnosed Before?",Yes
+98B1C73D-D4B6-4FFC-BC11,,"1. Present age of child:","> 3"
+98B1C73D-D4B6-4FFC-BC11,,"2. Indicate child's sex:",Boy
+98B1C73D-D4B6-4FFC-BC11,,"3. Child's birth order and number of mothers other children:","Only child"
+98B1C73D-D4B6-4FFC-BC11,,"4. Were pregnancy and delivery normal?","Pregnancy and delivery both normal"
+98B1C73D-D4B6-4FFC-BC11,,"5. Was the birth premature (birth weight under 5 lbs.)?",Yes
+98B1C73D-D4B6-4FFC-BC11,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually unresponsive."
+98B1C73D-D4B6-4FFC-BC11,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Never was a period of normal behavior"
+98B1C73D-D4B6-4FFC-BC11,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","Yes, or I believe so"
+98B1C73D-D4B6-4FFC-BC11,,"16. Which describes the change from crawling to walking?","Prolonged crawling, gradual start of walking"
+98B1C73D-D4B6-4FFC-BC11,,"18. During the childs first 2 years, did he/she like to be held?","Notably stiff and awkward to hold"
+98B1C73D-D4B6-4FFC-BC11,,"19. Before age 3, did the child ever imitate another person?","Yes, waved bye-bye"
+98B1C73D-D4B6-4FFC-BC11,,"21. Did you ever suspect the child was very nearly deaf?",Yes
+98B1C73D-D4B6-4FFC-BC11,,"23.(Age 2-4) Does child hold his/her hands in strange postures?",No
+98B1C73D-D4B6-4FFC-BC11,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+98B1C73D-D4B6-4FFC-BC11,,"29. (Age 2-5) Is he/she cuddly?","Definitely, likes to cling to adults"
+98B1C73D-D4B6-4FFC-BC11,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Unusually graceful"
+98B1C73D-D4B6-4FFC-BC11,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","Yes, does this often"
+98B1C73D-D4B6-4FFC-BC11,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Exceptionally skillful"
+98B1C73D-D4B6-4FFC-BC11,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","Throwing and/or catching a ball"
+98B1C73D-D4B6-4FFC-BC11,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","Yes, this is typical"
+98B1C73D-D4B6-4FFC-BC11,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Rarely or never gets upset"
+98B1C73D-D4B6-4FFC-BC11,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Doesn't seem to mind, or enjoys them"
+98B1C73D-D4B6-4FFC-BC11,,"43. (Age 3-5) Is child upset by certain things that are not 'right' (like crack in wall, spot on rug, books leaning in bookcase, broken rung on chair, pipe held and not smoked)?","Not especially "
+98B1C73D-D4B6-4FFC-BC11,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","Yes, no special problem"
+98B1C73D-D4B6-4FFC-BC11,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+98B1C73D-D4B6-4FFC-BC11,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Never, or rarely"
+98B1C73D-D4B6-4FFC-BC11,,"55. (Age 3-5) Which set of terms best describes the child?","Confused, self-concerned, perplexed, dependent, worried"
+98B1C73D-D4B6-4FFC-BC11,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","Yes, but later talked again"
+98B1C73D-D4B6-4FFC-BC11,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Too little speech to tell, or other answer"
+98B1C73D-D4B6-4FFC-BC11,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Too little speech to tell"
+98B1C73D-D4B6-4FFC-BC11,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands fairly well "
+98B1C73D-D4B6-4FFC-BC11,,"71. (Age 3-5) Does the child typically say ","Yes, definitely, does not say ""yes"" directly "
+98B1C73D-D4B6-4FFC-BC11,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","Yes, definitely (uses ""You"" instead of ""I"") "
+98B1C73D-D4B6-4FFC-BC11,,"78. Mother's highest educational level","Some graduate work"
+98B1C73D-D4B6-4FFC-BC11,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded : none",true
+98B1C73D-D4B6-4FFC-BC11,,"80. Before age 2, arched back and bent head back, when held",True
+98B1C73D-D4B6-4FFC-BC11,,"81. Before age 2, struggled against being held","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"82. Before age 10, abnormal craving for certain food",True
+98B1C73D-D4B6-4FFC-BC11,,"83. Before age 10, eats unusually large amounts of food","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"90. Before age 10, insists on keeping certain object with him/her","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"89. Before age 10, avoids people","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"94. Before age 10, tidy (neat, avoids messy things)","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"93. Before age 10, notices changes or imperfections and tries to correct them","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"101. Before age 10, holds bizarre pose or posture","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"102. Before age 10, chews or swallows nonfood objects","Very true"
+98B1C73D-D4B6-4FFC-BC11,,"106. Before age 10, seems not to feel pain","Very true"
+F2BCE17C-7C13-4C27-AE97,,"91. Before age 10, always frightened or very anxious","Very true"
+F2BCE17C-7C13-4C27-AE97,,"100. Before age 10, examines surfaces with fingers","Very true"
+F2BCE17C-7C13-4C27-AE97,,"99. Before age 10, gets ","Very true"
+F2BCE17C-7C13-4C27-AE97,," 98. Before age 10, repeats <strong>questions</strong> or <strong>conversations</strong> he/she has heard, over and over, without variation","Very true"
+F2BCE17C-7C13-4C27-AE97,," 97. Before age 10, after delay, repeats <strong>whole sentences</strong> he/she has heard",True
+F2BCE17C-7C13-4C27-AE97,,"96. Before age 10, after delay, repeat <strong>phrases</strong> he/she has heard",True
+F2BCE17C-7C13-4C27-AE97,,"95. Before age 10, has collected a particular thing (toy horses, bits of glass, etc.)",False
+F2BCE17C-7C13-4C27-AE97,,"94. Before age 10, tidy (neat, avoids messy things)",False
+F2BCE17C-7C13-4C27-AE97,,"93. Before age 10, notices changes or imperfections and tries to correct them",False
+F2BCE17C-7C13-4C27-AE97,,"92. Before age 10, inconsolable crying",False
+F2BCE17C-7C13-4C27-AE97,,"101. Before age 10, holds bizarre pose or posture","Very true"
+F2BCE17C-7C13-4C27-AE97,,"102. Before age 10, chews or swallows nonfood objects","Very true"
+F2BCE17C-7C13-4C27-AE97,,"103. Before age 10, dislikes being touched or held","Very true"
+F2BCE17C-7C13-4C27-AE97,,"104. Before age 10, intensely aware of odors",True
+F2BCE17C-7C13-4C27-AE97,,"105. Before age 10, hides skill or knowledge, so you are surprised later on",False
+F2BCE17C-7C13-4C27-AE97,,"106. Before age 10, seems not to feel pain","Very true"
+F2BCE17C-7C13-4C27-AE97,,"107. Before age 10, terrified at unusual happenings",True
+F2BCE17C-7C13-4C27-AE97,,"108. Before age 10, learned words useless to him/herself",False
+F2BCE17C-7C13-4C27-AE97,,"109. Before age 10, learned certain words, then stopped using them","Very true"
+F712E6B4-A8AD-477A-B186,,"56. (Age 3-5) Is the child extremely fearful?","Only normal fearfulness"
+F712E6B4-A8AD-477A-B186,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Tends toward falling or injury"
+F712E6B4-A8AD-477A-B186,,"55. (Age 3-5) Which set of terms best describes the child?","Confused, self-concerned, perplexed, dependent, worried"
+F712E6B4-A8AD-477A-B186,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?",No
+F712E6B4-A8AD-477A-B186,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others?","No (not a problem)"
+F712E6B4-A8AD-477A-B186,,"59. At what age did the child say his/her first words (even if later stopped talking)?","8-12 months"
+F712E6B4-A8AD-477A-B186,,"59a. Please list child's first six words (as well as you can remember them)","apple, mama, dada, ish (for nurse), done, up"
+F712E6B4-A8AD-477A-B186,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : No, continued to talk, or never began talking","No, continued to talk or never began talking "
+F712E6B4-A8AD-477A-B186,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more? : Yes, but later talked again (age stopped)",
+F712E6B4-A8AD-477A-B186,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","No, continued to talk, or never began talking "
+F712E6B4-A8AD-477A-B186,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Average or below average pronunciation of first words (""wabbit,"" etc.) and also poor at 3 to 5"
+F712E6B4-A8AD-477A-B186,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","Ability to ""communicate"" is pretty good -- about what you would expect from the number of words he/she knows"
+F712E6B4-A8AD-477A-B186,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",No
+F712E6B4-A8AD-477A-B186,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","d. ""You fall down"""
+F712E6B4-A8AD-477A-B186,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?",No
+F712E6B4-A8AD-477A-B186,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+F712E6B4-A8AD-477A-B186,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands fairly well "
+F712E6B4-A8AD-477A-B186,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Not just repeating-- he/she understands what he/she is saying; but not well "
+F712E6B4-A8AD-477A-B186,,"70. (Before age 5) Has the child used the word 'Yes'?","Has used ""Yes"" fairly often and correctly "
+F712E6B4-A8AD-477A-B186,,"71. (Age 3-5) Does the child typically say ","No, would say ""Yes"" or ""OK"" or similar answer"
+F712E6B4-A8AD-477A-B186,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","No, would ask differently "
+F712E6B4-A8AD-477A-B186,,"73. (Before age 5) Has the child used the word ","Seldom has used ""I"", but has used it correctly"
+F712E6B4-A8AD-477A-B186,,"74.(Before age 5) How does the child usually say ","He/she would just say ""No"" "
+F712E6B4-A8AD-477A-B186,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?",No
+F712E6B4-A8AD-477A-B186,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Actually noticed 7-12 months"
+F712E6B4-A8AD-477A-B186,,"77. Father's highest educational level ","College graduate"
+F712E6B4-A8AD-477A-B186,,"78. Mother's highest educational level","Graduate degree"
+F712E6B4-A8AD-477A-B186,,"78. Mother's highest educational level: degree",MS
+F712E6B4-A8AD-477A-B186,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded : none",true
+F712E6B4-A8AD-477A-B186,,"80. Before age 2, arched back and bent head back, when held",False
+F712E6B4-A8AD-477A-B186,,"81. Before age 2, struggled against being held",False
+F712E6B4-A8AD-477A-B186,,"82. Before age 10, abnormal craving for certain food",False
+F712E6B4-A8AD-477A-B186,,"83. Before age 10, eats unusually large amounts of food",False
+F712E6B4-A8AD-477A-B186,,"84. Before age 10, covers ears at many sounds",True
+F712E6B4-A8AD-477A-B186,,"85. Before age 10, only certain sounds seem painful to him/her",False
+F712E6B4-A8AD-477A-B186,,"86. Before age 10, fails to blink at bright lights",True
+F712E6B4-A8AD-477A-B186,,"87. Before age 10, skin color lighter or darker than others in family: lighter",on
+F712E6B4-A8AD-477A-B186,,"87. Before age 10, skin color lighter or darker than others in family:",False
+F712E6B4-A8AD-477A-B186,,"88. Before age 10, prefers inanimate (nonliving) things",False
+F712E6B4-A8AD-477A-B186,,"89. Before age 10, avoids people",False
+F712E6B4-A8AD-477A-B186,,"90. Before age 10, insists on keeping certain object with him/her",False
+F712E6B4-A8AD-477A-B186,,"91. Before age 10, always frightened or very anxious",False
+F712E6B4-A8AD-477A-B186,,"92. Before age 10, inconsolable crying",False
+F712E6B4-A8AD-477A-B186,,"93. Before age 10, notices changes or imperfections and tries to correct them",False
+F712E6B4-A8AD-477A-B186,,"94. Before age 10, tidy (neat, avoids messy things)",False
+F712E6B4-A8AD-477A-B186,,"95. Before age 10, has collected a particular thing (toy horses, bits of glass, etc.)",False
+F712E6B4-A8AD-477A-B186,,"96. Before age 10, after delay, repeat <strong>phrases</strong> he/she has heard",False
+F712E6B4-A8AD-477A-B186,," 97. Before age 10, after delay, repeats <strong>whole sentences</strong> he/she has heard",False
+F712E6B4-A8AD-477A-B186,," 98. Before age 10, repeats <strong>questions</strong> or <strong>conversations</strong> he/she has heard, over and over, without variation",False
+F712E6B4-A8AD-477A-B186,,"99. Before age 10, gets ",True
+F712E6B4-A8AD-477A-B186,,"100. Before age 10, examines surfaces with fingers",False
+F712E6B4-A8AD-477A-B186,,"101. Before age 10, holds bizarre pose or posture",False
+F712E6B4-A8AD-477A-B186,,"102. Before age 10, chews or swallows nonfood objects",False
+F712E6B4-A8AD-477A-B186,,"103. Before age 10, dislikes being touched or held",False
+F712E6B4-A8AD-477A-B186,,"104. Before age 10, intensely aware of odors",False
+F712E6B4-A8AD-477A-B186,,"105. Before age 10, hides skill or knowledge, so you are surprised later on",False
+F712E6B4-A8AD-477A-B186,,"106. Before age 10, seems not to feel pain",False
+F712E6B4-A8AD-477A-B186,,"107. Before age 10, terrified at unusual happenings",False
+F712E6B4-A8AD-477A-B186,,"108. Before age 10, learned words useless to him/herself",False
+F712E6B4-A8AD-477A-B186,,"109. Before age 10, learned certain words, then stopped using them",False
+F712E6B4-A8AD-477A-B186,,"Childs First Name",Grant
+F712E6B4-A8AD-477A-B186,,"Childs Last Name",Fulton
+F712E6B4-A8AD-477A-B186,,"Childs Date of Birth",11/27/2002
+F712E6B4-A8AD-477A-B186,,"First Name of Person completing Form",Denise
+F712E6B4-A8AD-477A-B186,,"Last Name of Person completing Form",Fulton
+F712E6B4-A8AD-477A-B186,,"Relationship to Child",mother
+F712E6B4-A8AD-477A-B186,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Average, or dont know"
+F712E6B4-A8AD-477A-B186,,"Street Address","2328 Whitworth Ct"
+F712E6B4-A8AD-477A-B186,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Normal during first 6 months"
+F712E6B4-A8AD-477A-B186,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","No, I dont think he/she did"
+F712E6B4-A8AD-477A-B186,,City,Bellingham
+F712E6B4-A8AD-477A-B186,,"14. Did the child rock in his/her crib as a baby?","No, or very little"
+F712E6B4-A8AD-477A-B186,,"15. At what age did the child learn to walk alone?","13-15 months"
+F712E6B4-A8AD-477A-B186,,State,WA
+F712E6B4-A8AD-477A-B186,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+F712E6B4-A8AD-477A-B186,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected average intelligence"
+F712E6B4-A8AD-477A-B186,,Country,US
+F712E6B4-A8AD-477A-B186,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+F712E6B4-A8AD-477A-B186,,"19. Before age 3, did the child ever imitate another person?","Yes, other"
+F712E6B4-A8AD-477A-B186,,Zip,98229
+F712E6B4-A8AD-477A-B186,,"20. Before age 3, did the child have an unusually good memory ?","Remarkable memory for songs, rhymes, TV commercials, etc., in words"
+F712E6B4-A8AD-477A-B186,,"20. Before age 3, did the child have an unusually good memory?","No evidence for remarkable memory"
+F712E6B4-A8AD-477A-B186,,Phone,3604027511
+F712E6B4-A8AD-477A-B186,,"21. Did you ever suspect the child was very nearly deaf?",No
+F712E6B4-A8AD-477A-B186,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","No, this is not true of him/her"
+F712E6B4-A8AD-477A-B186,,"Fathers Occupation","Foundation Director"
+F712E6B4-A8AD-477A-B186,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+F712E6B4-A8AD-477A-B186,,"Fathers Past Occupation","Giving coordinator"
+F712E6B4-A8AD-477A-B186,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Not true of him/her"
+F712E6B4-A8AD-477A-B186,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","Yes, I think so"
+F712E6B4-A8AD-477A-B186,,"Mothers Occupation",Administrator
+F712E6B4-A8AD-477A-B186,,,"No, or not sure"
+F712E6B4-A8AD-477A-B186,,"27. (Age 2-4) Does the child have certain eating oddities such as refusing to drink from a transparent container, eating only hot (or cold) food, eating only one or two foods, etc.?","No, or not to any marked degree"
+F712E6B4-A8AD-477A-B186,,"Mothers Past Occupation","Tech Writer"
+F712E6B4-A8AD-477A-B186,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Not an accurate description"
+F712E6B4-A8AD-477A-B186,,"Has the Child Been Diagnosed Before?",Yes
+F712E6B4-A8AD-477A-B186,,"If yes, what was diagnosis?",ASD
+F712E6B4-A8AD-477A-B186,,"29. (Age 2-5) Is he/she cuddly?","Above average (likes to be held)"
+F712E6B4-A8AD-477A-B186,,"Diagnosed By:",UW
+F712E6B4-A8AD-477A-B186,,"30.(Age 3-5) Does the child deliberately hit his/her own head?","a. Never, or rarely"
+F712E6B4-A8AD-477A-B186,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Somewhat below average; or poor"
+F712E6B4-A8AD-477A-B186,,"Where was he/she diagnosed?","UW Tacoma"
+F712E6B4-A8AD-477A-B186,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","No, he/she shows no tendancy to whirl"
+F712E6B4-A8AD-477A-B186,,"Any other diagnosis? ",No
+F712E6B4-A8AD-477A-B186,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Exceptionally skillful"
+F712E6B4-A8AD-477A-B186,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Yes, often and for rather long periods"
+F712E6B4-A8AD-477A-B186,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","No unusual skill or not sure"
+F712E6B4-A8AD-477A-B186,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","No or rarely"
+F712E6B4-A8AD-477A-B186,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?",No
+F712E6B4-A8AD-477A-B186,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",No
+F712E6B4-A8AD-477A-B186,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","No special interest in records"
+F712E6B4-A8AD-477A-B186,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Little or no interest "
+F712E6B4-A8AD-477A-B186,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Sometimes gets mildly upset; rarely very upset"
+F712E6B4-A8AD-477A-B186,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Doesn't seem to mind, or enjoys them"
+F712E6B4-A8AD-477A-B186,,"43. (Age 3-5) Is child upset by certain things that are not ","Not especially "
+F712E6B4-A8AD-477A-B186,,"44. (Age 3-5) Does child adopt complicated ",No
+F712E6B4-A8AD-477A-B186,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?",No
+F712E6B4-A8AD-477A-B186,,"46. (Age 3-5) Is the child destructive?","Not deliberately or severely destructive"
+F712E6B4-A8AD-477A-B186,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?","Definitely not pliable "
+F712E6B4-A8AD-477A-B186,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Hyperactive, constantly moving, changes quickly from one thing to another"
+F712E6B4-A8AD-477A-B186,,"49. (Age 3-5) Does the child seem to want to be liked?","Just normally so"
+F712E6B4-A8AD-477A-B186,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+F712E6B4-A8AD-477A-B186,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","Yes, no special problem"
+F712E6B4-A8AD-477A-B186,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+F712E6B4-A8AD-477A-B186,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Usually does"
+FCE9967B-3745-40E2-86B5,,"Childs First Name",JOhn
+FCE9967B-3745-40E2-86B5,,"Childs Last Name",Steinmetz
+FCE9967B-3745-40E2-86B5,,"Childs Date of Birth",03/17/1976
+FCE9967B-3745-40E2-86B5,,"First Name of Person completing Form",John
+FCE9967B-3745-40E2-86B5,,"Last Name of Person completing Form",Steinmetz
+FCE9967B-3745-40E2-86B5,,"Relationship to Child",mother
+FCE9967B-3745-40E2-86B5,,Father,mother
+FCE9967B-3745-40E2-86B5,,Other,Uncle
+FCE9967B-3745-40E2-86B5,,"Street Address","1926 Kempwood Loop"
+FCE9967B-3745-40E2-86B5,,City,"Round Rock"
+FCE9967B-3745-40E2-86B5,,State,Tx
+FCE9967B-3745-40E2-86B5,,Country,USA
+FCE9967B-3745-40E2-86B5,,Zip,78665
+FCE9967B-3745-40E2-86B5,,Phone,555-555-5555
+FCE9967B-3745-40E2-86B5,,"Fathers Occupation","Garbage Man"
+FCE9967B-3745-40E2-86B5,,"Fathers Past Occupation",Janitor
+FCE9967B-3745-40E2-86B5,,"Mothers Occupation",Violinist
+FCE9967B-3745-40E2-86B5,,"Mothers Past Occupation",Pianist
+FCE9967B-3745-40E2-86B5,,"If yes, what was diagnosis?",Silly
+FCE9967B-3745-40E2-86B5,,"Diagnosed By:","Dr. Suess"
+FCE9967B-3745-40E2-86B5,,"Where was he/she diagnosed?","Loompa land"
+FCE9967B-3745-40E2-86B5,,"Any other diagnosis? ",Nope
+FCE9967B-3745-40E2-86B5,,"1. Present age of child:","> 3"
+FCE9967B-3745-40E2-86B5,,"2. Indicate childs sex:",Boy
+FCE9967B-3745-40E2-86B5,,"3. Childs birth order and number of mothers other children:","first born"
+FCE9967B-3745-40E2-86B5,,"Child is first born of",3
+FCE9967B-3745-40E2-86B5,,"4. Were pregnancy and delivery normal?","Problems during both pregnancy and delivery"
+FCE9967B-3745-40E2-86B5,,"5. Was the birth premature (birth weight under 5 lbs.)?",Yes
+FCE9967B-3745-40E2-86B5,,"premature - # of weeks early?",2
+FCE9967B-3745-40E2-86B5,,"premature - # of pounds",6
+FCE9967B-3745-40E2-86B5,,"6. Was the child given oxygen <em>in the first</em> week?",Yes
+FCE9967B-3745-40E2-86B5,,"7. Appearance of child during first few weeks after birth: ","Unusually healthy looking"
+FCE9967B-3745-40E2-86B5,,"8. Unusual conditions of birth and infancy",red
+FCE9967B-3745-40E2-86B5,,"8. Unusual conditions of birth and infancy: Type","Average, don't know, or other"
+FCE9967B-3745-40E2-86B5,,"9. Concerning babys health in first 3 months",Respiration
+FCE9967B-3745-40E2-86B5,,"9. Concerning babys health in first 3 months: Type",12
+FCE9967B-3745-40E2-86B5,,"10. Has the child been given an electroencephalogram (EEG)?","Yes, it was considered normal."
+FCE9967B-3745-40E2-86B5,,"11. In the first year; did the child react to bright lights; bright colors; unusual sounds; etc.?","Unusually strong reaction"
+FCE9967B-3745-40E2-86B5,,"11. Unusually strong reaction: dislike",true
+FCE9967B-3745-40E2-86B5,,"11. Unusually strong reaction: sensory pleasure",true
+FCE9967B-3745-40E2-86B5,,"12. Did the child behave normally for a time before his/her abnormal behavior began?","Normal during first 3 years"
+FCE9967B-3745-40E2-86B5,,"13. (Age 4-8 months) Did the child reach out or prepare him/herself to be picked up when mother approached him/her?","Yes, or I believe so"
+FCE9967B-3745-40E2-86B5,,"14. Did the child rock in his/her crib as a baby?","Yes, quite a lot"
+FCE9967B-3745-40E2-86B5,,"15. At what age did the child learn to walk alone?","8-12 months"
+FCE9967B-3745-40E2-86B5,,"16. Which describes the change from crawling to walking?","Normal change from crawling to walking"
+FCE9967B-3745-40E2-86B5,,"17. During the childs first year, did he/she seem to be unusually intelligent?","Suspected high intelligence"
+FCE9967B-3745-40E2-86B5,,"18. During the childs first 2 years, did he/she like to be held?","Liked being picked up; enjoyed being held"
+FCE9967B-3745-40E2-86B5,,"19. Before age 3, did the child ever imitate another person?","Yes, other"
+FCE9967B-3745-40E2-86B5,,"19. Before age 3, did the child ever imitate another person? : other",21
+FCE9967B-3745-40E2-86B5,,"20. Before age 3, did the child have an unusually good memory ?","Remarkable memory for songs, rhymes, TV commercials, etc., in words"
+FCE9967B-3745-40E2-86B5,,"20. Before age 3, did the child have an unusually good memory?","Remarkable memory for songs, music (humming only) & Remarkable memory for names, places, routes, etc."
+FCE9967B-3745-40E2-86B5,,"21. Did you ever suspect the child was very nearly deaf?",Yes
+FCE9967B-3745-40E2-86B5,,"22. (Age 2-4) Is child ""deaf"" to some sounds, but hears others?","Yes, can be ""deaf"" to loud sounds, but hear low ones"
+FCE9967B-3745-40E2-86B5,,"23.(Age 2-4) Does child hold his/her hands in strange postures?","Yes, sometimes often"
+FCE9967B-3745-40E2-86B5,,"24. (Age 2-4) Does child engage in rhythmic or rocking activity for very long periods of time (like on rocking-horse or chair, jump-chair, swing, etc.)?","Yes, this is typical"
+FCE9967B-3745-40E2-86B5,,"25. (Age 2-4) Does the child ever look through or walk through people, as though they werent there?","Yes, often"
+FCE9967B-3745-40E2-86B5,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on?","Yes, other"
+FCE9967B-3745-40E2-86B5,,"26.(Age 2-5) Does child have any unusual cravings for things to eat or chew on? : other",34
+FCE9967B-3745-40E2-86B5,,"27. (Age 2-4) Does the child have certain eating oddities such as refusing to drink from a transparent container, eating only hot (or cold) food, eating only one or two foods, etc.?","Don't know"
+FCE9967B-3745-40E2-86B5,,"28. Would you describe your child around age 3 or 4 as often seeming -in a shell,- or so distant and -lost in thought- that you couldnt reach him/her?","Not an accurate description"
+FCE9967B-3745-40E2-86B5,,"29. (Age 2-5) Is he/she cuddly?","Definitely, likes to cling to adults"
+FCE9967B-3745-40E2-86B5,,"30.(Age 3-5) Does the child deliberately hit his/her own head?"," d. Yes, usually by hitting walls, floor, furniture, etc."
+FCE9967B-3745-40E2-86B5,,"31. (Age 3-5) How well physically coordinated is the child (running, walking, balancing, climbing)?","Somewhat below average; or poor"
+FCE9967B-3745-40E2-86B5,,"32. (Age 3-5) Does the child sometimes whirl him/herself like a top?","Yes, does this often"
+FCE9967B-3745-40E2-86B5,,"33.(Age 3-5) How skillful is the child in doing fine work with his/her fingers or playing with small objects?","Exceptionally skillful"
+FCE9967B-3745-40E2-86B5,,"34. (Age 3-5) Does the child like to spin things like jar lids, coins, or coasters?","Yes, often and for rather long periods"
+FCE9967B-3745-40E2-86B5,,"35. (Age 3-5) Does child show an unusual degree of skill (much better than normal child his/her age) at any of following:","Assembling jig saw or similar puzzles"
+FCE9967B-3745-40E2-86B5,,"36. (Age 3-5) Does the chid sometimes jump up and down gleefully when pleased?","Yes, this is typical"
+FCE9967B-3745-40E2-86B5,,"37. (Age 3-5) Does child sometimes line things up in precise, evenly-spaced rows and insist they not be disturbed?",Yes
+FCE9967B-3745-40E2-86B5,,"38. (Age 3-5) Does the child refuse to use his/her hands for an extended period of time?",Yes
+FCE9967B-3745-40E2-86B5,,"39. Was there a time before age 5 when the child strongly insisted on listening to music on records?","No special interest in records"
+FCE9967B-3745-40E2-86B5,,"40. (Age 3-5) How interested is the child in mechanical objects such as the stove or vacuum cleaner?","Average interest"
+FCE9967B-3745-40E2-86B5,,"41. (Age 3-5) How does child usually react to being interrupted at what he/she is doing?","Rarely or never gets upset"
+FCE9967B-3745-40E2-86B5,,"42. (Age 3-5) Will the child readily accept new articles of clothing (shoes, coats, etc.)?","Usually resists new clothes"
+FCE9967B-3745-40E2-86B5,,"43. (Age 3-5) Is child upset by certain things that are not ","Not especially "
+FCE9967B-3745-40E2-86B5,,"44. (Age 3-5) Does child adopt complicated ","Yes, definitely"
+FCE9967B-3745-40E2-86B5,,"45. (Age 3-5) Does child get very upset if certain things he/she is used to are changed (like furniture or toy arrangement, or certain doors which must be left open or shut)?",No
+FCE9967B-3745-40E2-86B5,,"46. (Age 3-5) Is the child destructive?","Yes, this is definitely a problem"
+FCE9967B-3745-40E2-86B5,,"47. (Age 3-5) Is the child usually physically pliable (can be led easily; melts into your arms)?",Yes
+FCE9967B-3745-40E2-86B5,,"48. (Age 3-5) Which single description; or combination of two descriptions; best characterizes the child?","Hyperactive, constantly moving, changes quickly from one thing to another"
+FCE9967B-3745-40E2-86B5,,"49. (Age 3-5) Does the child seem to want to be liked?","Yes, unusually so"
+FCE9967B-3745-40E2-86B5,,"50. (Age 3-5) Is child sensitive and/or affectionate? ","Is sensitive to criticism and affectionate"
+FCE9967B-3745-40E2-86B5,,"51. (Age 3-5) Is it possible to direct child's attention to an object some distance away or out a window?","He/she examines things with fingers and mouth only"
+FCE9967B-3745-40E2-86B5,,"52. (Age 3-5) Do people consider the child especially attractive?","Yes, very good-looking child"
+FCE9967B-3745-40E2-86B5,,"53. (Age 3-5) Does the child look up at people (meet their eyes) when they are talking to him/her?","Never, or rarely"
+FCE9967B-3745-40E2-86B5,,"54. (Age 3-5) Does the child take an adult by the wrist to use adult's hand (to open door, get cookies, turn on TV, etc.)?","Yes, this is typical"
+FCE9967B-3745-40E2-86B5,,"55. (Age 3-5) Which set of terms best describes the child?","Confused, self-concerned, perplexed, dependent, worried"
+FCE9967B-3745-40E2-86B5,,"56. (Age 3-5) Is the child extremely fearful?","Yes, a & b above"
+FCE9967B-3745-40E2-86B5,,"57. (Age 3-5) Does he/she fall or get hurt in running or climbing?","Tends toward falling or injury"
+FCE9967B-3745-40E2-86B5,,"58. (Age 3-5) Is there a problem in that the child hits, pinches, bites or otherwise injures himself or others?",Others
+FCE9967B-3745-40E2-86B5,,"59. At what age did the child say his/her first words (even if later stopped talking)?","8-12 months"
+FCE9967B-3745-40E2-86B5,,"59a. Please list child's first six words (as well as you can remember them)","free free ferr enen fdfsdf"
+FCE9967B-3745-40E2-86B5,,"60. (Before age 5) Did the child start to talk, then become silent again for a week or more? : No, continued to talk, or never began talking","No, continued to talk or never began talking "
+FCE9967B-3745-40E2-86B5,,"61. (Before age 5) Did the child start to talk, then stop, and begin to whisper instead, for a week or more?","No, continued to talk, or never began talking "
+FCE9967B-3745-40E2-86B5,,"62. (Age 1-5) How well could the child pronounce his/her first words when learning to speak, and how well could he/she pronounce difficult words between 3 and 5?","Unusually good on first words, and also at 3-5"
+FCE9967B-3745-40E2-86B5,,"63. (Age 3-5) Is the child's vocabulary (the number of things he/she can name or point to accurately) greatly out of proportion to his/her ability to ","Doesn't use or understand words "
+FCE9967B-3745-40E2-86B5,,"64. When the child spoke his/her first sentences; did he/she surprise you by using words he/she had not used individually before?",No
+FCE9967B-3745-40E2-86B5,,"65. How did child refer to <em>him/herself</em> on first learning to talk?","a. ""(John) fell down;"" or ""Baby (or Boy) fall down."""
+FCE9967B-3745-40E2-86B5,,"66. (Age 3-5) Does child repeat phrases or sentences that he/she has heard in the past (maybe using a hollow, parrot-like voice), what is said having little or no relation to the situation?","Yes, definitely, except voice not hollow or parrot-like "
+FCE9967B-3745-40E2-86B5,,"67. (Before age 5) Can the child answer a simple question like 'What is your first name?' 'Why did Mommy spank Billy?'","Yes, can answer such questions adequately "
+FCE9967B-3745-40E2-86B5,,"68. (Before age 5) Can the child understand what you say to him/her, judging from his/her ability to follow instructions or answer you?","Yes, understands very well "
+FCE9967B-3745-40E2-86B5,,"69. (Before age 5) If the child talks; do you feel he/she understands what he/she is saying?","Doesn't talk enough to tell "
+FCE9967B-3745-40E2-86B5,,"70. (Before age 5) Has the child used the word 'Yes'?","Has used ""Yes"" fairly often and correctly "
+FCE9967B-3745-40E2-86B5,,"71. (Age 3-5) Does the child typically say ","Yes, definitely, does not say ""yes"" directly "
+FCE9967B-3745-40E2-86B5,," 72. (Before age 5) Has the child asked for something by using the same sentence you would use when you offer it to him/her?","Yes, definitely (uses ""You"" instead of ""I"") "
+FCE9967B-3745-40E2-86B5,,"73. (Before age 5) Has the child used the word ","Has used ""I"" fairly often and correctly "
+FCE9967B-3745-40E2-86B5,,"74.(Before age 5) How does the child usually say ","He/she would just say ""No"" "
+FCE9967B-3745-40E2-86B5,,"75. (Before age 5) Has the child used one word or idea as a substitute for another, for a prolonged period of time?","Yes, definitely"
+FCE9967B-3745-40E2-86B5,,"76. Knowing what you do now, at what age do you think you could have first detected the child's abnormal behavior?","Actually noticed in first 3 months"
+FCE9967B-3745-40E2-86B5,,"77. Father's highest educational level ","Did not graduate high school "
+FCE9967B-3745-40E2-86B5,,"78. Mother's highest educational level","Did not graduate high school"
+FCE9967B-3745-40E2-86B5,,"79. Indicate the child's nearest blood relatives, including parents, who have been in a mental hospital or who were known to have been seriously mentally ill or retarded : none",true
+FCE9967B-3745-40E2-86B5,,"80. Before age 2, arched back and bent head back, when held","Very true"
